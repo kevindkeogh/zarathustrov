@@ -2,13 +2,14 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"log"
 	"math/rand"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/ChimeraCoder/anaconda"
 )
 
 // randInt returns a random integer between a max and a min
@@ -144,20 +145,35 @@ func generateRandomString(tree map[string]map[string]int) string {
 		randomString = generateRandomString(tree)
 	}
 	// TODO: Check for open quotes
-	fmt.Println(position)
-	fmt.Println(randomString)
 	return randomString[:position]
 }
 
+// twitterLogin returns the Twitter connected API Client
+func twitterLogin() *anaconda.TwitterApi {
+	anaconda.SetConsumerKey(twitterConsumerKey)
+	anaconda.SetConsumerSecret(twitterConsumerSecret)
+	api := anaconda.NewTwitterApi(twitterAccessToken, twitterAccessSecret)
+	return api
+}
+
+func makePost(tree *map[string]map[string]int) {
+	twitterClient := twitterLogin()
+	text := generateRandomString(*tree)
+	twitterClient.PostTweet(text, nil)
+}
+
+
 func main() {
+	rand.Seed(time.Now().UTC().UnixNano())
 	corpus, err := os.Open("corpus.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer corpus.Close()
 	tree := parseCorpus(corpus, 31271, 545805)
+	corpus.Close()
 
-	rand.Seed(time.Now().UTC().UnixNano())
-	randomString := generateRandomString(*tree)
-	fmt.Println(randomString)
+	for {
+		makePost(tree)
+		time.Sleep(15 * time.Minute)
+	}
 }
