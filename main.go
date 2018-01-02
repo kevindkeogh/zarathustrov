@@ -162,7 +162,6 @@ func makePost(tree *map[string]map[string]int) {
 	twitterClient.PostTweet(text, nil)
 }
 
-
 func main() {
 	rand.Seed(time.Now().UTC().UnixNano())
 	corpus, err := os.Open("corpus.txt")
