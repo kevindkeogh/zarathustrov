@@ -1,0 +1,21 @@
+Twitter bot that creates a Markov chain from Thus Spake Zarathustra and
+generates random strings every 15 minutes.
+
+To run, get the code
+	go get github.com/kevindkeogh/zarathustrov
+change the working directory
+	cd $GOPATH/src/github.com/kevindkeogh/zarathustrov
+
+There you'll need to create a Twitter app and update the secrets.go file
+with the necessary credentials. Then you can build the app
+	go build
+
+You can run the app with just
+	./zarathustrov
+or you can run it as a service.
+	cp zarathustrov.service /etc/systemd/system/
+	systemctl reload-daemon
+	systemctl enable zarathustrov.service
+	systemctl start zarathustrov.service
+
+And then you're done!
