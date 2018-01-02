@@ -93,7 +93,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 	var word string
 	var position int
 	// var quoteOpen bool TODO: Fix so that all quotes are closed
-	for key, _ = range tree {
+	for key = range tree {
 		if word != "_appearances" {
 			break
 		}
@@ -111,7 +111,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 		// subtracted from nth. This preserves the probability, since
 		// nth is a random number from 0 to the total number of
 		// possible second words, and each is weighted by its count
-		for word, _ = range secondMap {
+		for word = range secondMap {
 			if word == "_appearances" {
 				continue
 			}
@@ -123,12 +123,12 @@ func generateRandomString(tree map[string]map[string]int) string {
 		switch word {
 		case ".", "!", "?":
 			position = len(randomString) + 1
-			for key, _ = range tree {
+			for key = range tree {
 				break
 			}
 			randomString = randomString + word + " " + strings.Title(key)
 		case ",", ";":
-			for key, _ = range tree {
+			for key = range tree {
 				break
 			}
 			randomString = randomString + word + " " + key
