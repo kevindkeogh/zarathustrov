@@ -141,6 +141,8 @@ func generateRandomString(tree map[string]map[string]int) string {
 		}
 	}
 
+	// FIXME: This only runs once, and doesn't return the right
+	// position anyway.
 	if position == 0 {
 		randomString = generateRandomString(tree)
 	}
@@ -156,18 +158,23 @@ func twitterLogin() *anaconda.TwitterApi {
 	return api
 }
 
+// makePost takes a Markov tree, then gets a Twitter API Client and a new
+// random string and posts it
 func makePost(tree *map[string]map[string]int) {
 	twitterClient := twitterLogin()
 	text := generateRandomString(*tree)
 	twitterClient.PostTweet(text, nil)
 }
 
+// main runs the program forever, calling makePost every 15 minutes
 func main() {
 	rand.Seed(time.Now().UTC().UnixNano())
 	corpus, err := os.Open("corpus.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
+	// 31271 and 545805 are magic numbers that cover the characters in
+	// corpus.txt that exclude the introduction and the afterword
 	tree := parseCorpus(corpus, 31271, 545805)
 	corpus.Close()
 
