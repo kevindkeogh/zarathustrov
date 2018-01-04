@@ -115,13 +115,13 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 
 // generateRandomString takes a Markov tree map of string[int] maps, and
 // returns a single string less than 280 characters (for Twitter).
-func generateRandomString(tree map[string]map[string]int) string {
+func generateRandomString(tree *map[string]map[string]int) string {
 	var key string
 	var randomString string
 	var word string
 	var position int
 	// var quoteOpen bool TODO: Fix so that all quotes are closed
-	for key = range tree {
+	for key = range *tree {
 		if word != "_appearances" {
 			break
 		}
@@ -129,7 +129,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 
 	randomString = strings.Title(key)
 	for len(randomString) < 280 {
-		secondMap := tree[key]
+		secondMap := (*tree)[key]
 		nth := randInt(0, secondMap["_appearances"])
 		// Ranging through maps is basically random, per
 		// https://blog.golang.org/go-maps-in-action
@@ -152,12 +152,12 @@ func generateRandomString(tree map[string]map[string]int) string {
 		switch word {
 		case ".", "!", "?":
 			position = len(randomString) + 1
-			for key = range tree {
+			for key = range *tree {
 				break
 			}
 			randomString = randomString + word + " " + strings.Title(key)
 		case ",", ";":
-			for key = range tree {
+			for key = range *tree {
 				break
 			}
 			randomString = randomString + word + " " + key
@@ -187,7 +187,7 @@ func twitterLogin() *anaconda.TwitterApi {
 // random string and posts it
 func makePost(tree *map[string]map[string]int) {
 	twitterClient := twitterLogin()
-	text := generateRandomString(*tree)
+	text := generateRandomString(tree)
 	twitterClient.PostTweet(text, nil)
 }
 
