@@ -81,7 +81,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 	}
 
 	jsonString, _ := json.Marshal(lookup)
-	err = ioutil.WriteFile("tree.json", jsonString, 0666)
+	err = ioutil.WriteFile("assets/tree.json", jsonString, 0666)
 	return &lookup
 }
 
@@ -165,7 +165,7 @@ func makePost(tree *map[string]map[string]int) {
 
 func main() {
 	rand.Seed(time.Now().UTC().UnixNano())
-	corpus, err := os.Open("corpus.txt")
+	corpus, err := os.Open("assets/corpus.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
