@@ -5,8 +5,8 @@ Description=Zarathustrov twitter runner
 User=YOUR_USERNAME_HERE
 Restart=always
 Type=simple
-WorkingDirectory=$GOPATH/src/github.com/kevindkeogh/zarathustrov
-ExecStart=$GOPATH/src/github.com/kevindkeogh/zarathustrov/zarathustrov
+WorkingDirectory=$GOPATH/src/github.com/kevindkeogh/bin/zarathustrov
+ExecStart=$GOPATH/src/github.com/kevindkeogh/zarathustrov/bin/zarathustrov
 
 [Install]
 WantedBy=multi-user.target
