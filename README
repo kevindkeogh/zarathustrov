@@ -8,10 +8,10 @@ change the working directory
 
 There you'll need to create a Twitter app and update the secrets.go file
 with the necessary credentials. Then you can build the app
-	go build
+	make build
 
 You can run the app with just
-	./zarathustrov
+	./bin/zarathustrov
 or you can run it as a service.
 	cp zarathustrov.service /etc/systemd/system/
 	systemctl reload-daemon
