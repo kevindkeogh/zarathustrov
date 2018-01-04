@@ -93,7 +93,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 	var word string
 	var position int
 	// var quoteOpen bool TODO: Fix so that all quotes are closed
-	for key, _ = range tree {
+	for key = range tree {
 		if word != "_appearances" {
 			break
 		}
@@ -111,7 +111,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 		// subtracted from nth. This preserves the probability, since
 		// nth is a random number from 0 to the total number of
 		// possible second words, and each is weighted by its count
-		for word, _ = range secondMap {
+		for word = range secondMap {
 			if word == "_appearances" {
 				continue
 			}
@@ -123,12 +123,12 @@ func generateRandomString(tree map[string]map[string]int) string {
 		switch word {
 		case ".", "!", "?":
 			position = len(randomString) + 1
-			for key, _ = range tree {
+			for key = range tree {
 				break
 			}
 			randomString = randomString + word + " " + strings.Title(key)
 		case ",", ";":
-			for key, _ = range tree {
+			for key = range tree {
 				break
 			}
 			randomString = randomString + word + " " + key
@@ -141,6 +141,8 @@ func generateRandomString(tree map[string]map[string]int) string {
 		}
 	}
 
+	// FIXME: This only runs once, and doesn't return the right
+	// position anyway.
 	if position == 0 {
 		randomString = generateRandomString(tree)
 	}
@@ -156,19 +158,23 @@ func twitterLogin() *anaconda.TwitterApi {
 	return api
 }
 
+// makePost takes a Markov tree, then gets a Twitter API Client and a new
+// random string and posts it
 func makePost(tree *map[string]map[string]int) {
 	twitterClient := twitterLogin()
 	text := generateRandomString(*tree)
 	twitterClient.PostTweet(text, nil)
 }
 
-
+// main runs the program forever, calling makePost every 15 minutes
 func main() {
 	rand.Seed(time.Now().UTC().UnixNano())
 	corpus, err := os.Open("assets/corpus.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
+	// 31271 and 545805 are magic numbers that cover the characters in
+	// corpus.txt that exclude the introduction and the afterword
 	tree := parseCorpus(corpus, 31271, 545805)
 	corpus.Close()
 
