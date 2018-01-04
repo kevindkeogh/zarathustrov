@@ -2,7 +2,7 @@
 PKGS := $(shell ls ./cmd)
 
 .PHONY: build fmt clean
-build: fmt
+build: fmt dep
 	@mkdir -p bin
 	@for package in $(PKGS) ; \
 	do \
@@ -14,6 +14,9 @@ fmt:
 	do \
 		go fmt ./cmd/$$package/*.go ; \
 	done
+
+dep:
+	@dep ensure
 
 clean:
 	@rm -rf ./bin
