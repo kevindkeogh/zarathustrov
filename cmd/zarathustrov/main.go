@@ -12,6 +12,17 @@ import (
 	"github.com/ChimeraCoder/anaconda"
 )
 
+var endings = map[rune]bool{
+	'.': true,
+	'!': true,
+	'?': true,
+}
+
+var seperators = map[rune]bool{
+	',': true,
+	';': true,
+}
+
 // randInt returns a random integer between a max and a min
 // see https://stackoverflow.com/q/12321133
 func randInt(min int, max int) int {
@@ -64,8 +75,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 			count = lookup[key]["_appearances"]
 			lookup[key]["_appearances"] = count + 1
 
-			switch letterRune {
-			case '.', ';', ',', '!', '?', '"':
+			if endings[letterRune] || seperators[letterRune] {
 				if _, ok := lookup[value]; !ok {
 					lookup[value] = make(map[string]int)
 				}
@@ -120,6 +130,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 				break
 			}
 		}
+
 		switch word {
 		case ".", "!", "?":
 			position = len(randomString) + 1
@@ -141,11 +152,7 @@ func generateRandomString(tree map[string]map[string]int) string {
 		}
 	}
 
-	// FIXME: This only runs once, and doesn't return the right
-	// position anyway.
-	if position == 0 {
-		randomString = generateRandomString(tree)
-	}
+	// FIXME: This only runs once, what if the string never has an ending?
 	// TODO: Check for open quotes
 	return randomString[:position]
 }
