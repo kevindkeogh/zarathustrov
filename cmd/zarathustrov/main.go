@@ -39,24 +39,28 @@ func randInt(min int, max int) int {
 // read.
 // Note that the tree in JSON form as tree.json in the working directory.
 func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int {
+	if end == -1 {
+		end = len(text)
+	}
+
+	// read the entire text file as an array.
+	// TODO: chunk it, use multiple gothreads?
 	text, err := ioutil.ReadAll(corpus)
 	if err != nil {
 		log.Fatal(err)
 	}
-	if end == -1 {
-		end = len(text)
-	}
 	content := string(text[start:end])
 
-	lookup := make(map[string]map[string]int)
+	tree := make(map[string]map[string]int)
 	word := []rune("the") // TODO: Get real first word
 	nextWord := []rune("")
 
-	for _, letterRune := range content {
-		// check if letter
-		if (letterRune >= rune('a') && letterRune <= rune('z')) ||
-			(letterRune >= rune('A') && letterRune <= rune('Z')) {
-			nextWord = append(nextWord, letterRune)
+	for _, letter := range content {
+		// check if it's really a letter
+		if (letter >= rune('a') && letter <= rune('z')) ||
+			(letter >= rune('A') && letter <= rune('Z')) {
+			nextWord = append(nextWord, letter)
+		// add the words to the tree
 		} else {
 			key := strings.ToLower(string(word))
 			value := strings.ToLower(string(nextWord))
@@ -65,34 +69,49 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 				continue
 			}
 
-			if _, ok := lookup[key]; !ok {
-				lookup[key] = make(map[string]int)
+			if _, ok := tree[key]; !ok {
+				tree[key] = make(map[string]int)
+				tree[key][value] = 1
+				tree[key]["_appearances"] = 1
+			} else {
+				count := tree[key][value]
+				tree[key][value] = count + 1
+				// Keep track of the overall count per entry,
+				// to make it easy to probabilities
+				count = tree[key]["_appearances"]
+				tree[key]["_appearances"] = count + 1
 			}
-			count := lookup[key][value]
-			lookup[key][value] = count + 1
-			// Keep track of the overall count per entry,
-			// to make it easy to probabilities
-			count = lookup[key]["_appearances"]
-			lookup[key]["_appearances"] = count + 1
-
-			if endings[letterRune] || seperators[letterRune] {
-				if _, ok := lookup[value]; !ok {
-					lookup[value] = make(map[string]int)
-				}
-				count := lookup[value][string(letterRune)]
-				lookup[value][string(letterRune)] = count + 1
-				count = lookup[value]["_appearances"]
-				lookup[value]["_appearances"] = count + 1
-			}
-
-			word = nextWord
-			nextWord = make([]rune, 0)
 		}
+		// Check if it's punctuation, and add that too, if so
+		if endings[letter] || seperators[letter] {
+			punctuation := string(letter)
+			if _, ok := tree[value]; !ok {
+				tree[value] = make(map[string]int)
+				tree[value][punctuation] = 1
+				tree[value]["_appearances"] = 1
+			} else {
+				count := tree[value][punctuation]
+				tree[value][punctuation] = count + 1
+				count = tree[value]["_appearances"]
+				tree[value]["_appearances"] = count + 1
+			}
+		}
+		// Reset the words
+		word = nextWord
+		nextWord = make([]rune, 0)
 	}
 
-	jsonString, _ := json.Marshal(lookup)
+	jsonString, err := json.Marshal(tree)
+	if err != nil {
+		log.fatal(err)
+	}
+
 	err = ioutil.WriteFile("assets/tree.json", jsonString, 0666)
-	return &lookup
+	if err != nil {
+		log.fatal(err)
+	}
+
+	return &tree
 }
 
 // generateRandomString takes a Markov tree map of string[int] maps, and
