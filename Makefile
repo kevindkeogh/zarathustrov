@@ -9,6 +9,12 @@ build: fmt dep
 		go build -x -v -o ./bin/$$package ./cmd/$$package/*.go ; \
 	done
 
+install:
+	@for package in $(PKGS) ; \
+	do \
+		go install ./cmd/$$package ; \
+	done
+
 fmt:
 	@for package in $(PKGS) ; \
 	do \
