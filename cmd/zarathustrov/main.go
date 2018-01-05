@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"math/rand"
@@ -49,6 +50,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 		end = len(text)
 	}
 	content := string(text[start:end])
+	fmt.Println(content[len(content)-30:])
 
 	tree := make(map[string]map[string]int)
 
@@ -146,8 +148,9 @@ func getRandomTreeKey(tree *map[string]map[string]int) string {
 	return key
 }
 
-// getRandomTreeKey takes a tree and returns a random key from all the keys.
-// Note that the keys are weighted by the total number of words in the corpus.
+// getRandomNodeKey takes a node and returns a random key from all the keys.
+// Note that the keys are weighted by the total number of words appearing after
+// that Node-key in the corpus
 func getRandomNodeKey(node map[string]int) string {
 	var key string
 	nth := randInt(0, node["_appearances"])
@@ -219,9 +222,9 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// 31271 and 545805 are magic numbers that cover the characters in
+	// 32328 and 545805 are magic numbers that cover the characters in
 	// corpus.txt that exclude the introduction and the afterword
-	tree := parseCorpus(corpus, 31271, 545805)
+	tree := parseCorpus(corpus, 32328, 564346)
 	corpus.Close()
 
 	for {
