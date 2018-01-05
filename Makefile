@@ -1,7 +1,7 @@
 
 PKGS := $(shell ls ./cmd)
 
-.PHONY: build fmt clean
+.PHONY: build fmt clean install
 build: fmt dep
 	@mkdir -p bin
 	@for package in $(PKGS) ; \
