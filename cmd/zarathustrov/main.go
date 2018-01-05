@@ -51,6 +51,11 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 	content := string(text[start:end])
 
 	tree := make(map[string]map[string]int)
+
+	// Track the total number of words
+	tree["_appearances"] = make(map[string]int)
+	tree["_appearances"]["total"] = 0
+
 	word := []rune("the") // TODO: Get real first word
 	nextWord := []rune("")
 
@@ -67,9 +72,14 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 			if len(key) == 0 || len(value) == 0 {
 				continue
 			}
+
 			// Reset the words
 			word = nextWord
 			nextWord = make([]rune, 0)
+
+			// Track the total words
+			count := tree["_appearances"]["total"]
+			tree["_appearances"]["total"] = count + 1
 
 			if _, ok := tree[key]; !ok {
 				tree[key] = make(map[string]int)
@@ -78,7 +88,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 				tree[key][value] = 1
 				tree[key]["_appearances"] = 1
 			} else {
-				count := tree[key][value]
+				count = tree[key][value]
 				tree[key][value] = count + 1
 				count = tree[key]["_appearances"]
 				tree[key]["_appearances"] = count + 1
@@ -91,7 +101,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 					tree[value][punctuation] = 1
 					tree[value]["_appearances"] = 1
 				} else {
-					count := tree[value][punctuation]
+					count = tree[value][punctuation]
 					tree[value][punctuation] = count + 1
 					count = tree[value]["_appearances"]
 					tree[value]["_appearances"] = count + 1
@@ -113,53 +123,63 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 	return &tree
 }
 
-// generateRandomString takes a Markov tree map of string[int] maps, and
-// returns a single string less than 280 characters (for Twitter).
-func generateRandomString(tree *map[string]map[string]int) string {
+// getRandomTreeKey takes a tree and returns a random key from all the keys.
+// Note that the keys are weighted by the total number of words in the corpus.
+// Ranging through maps is basically random, per
+// https://blog.golang.org/go-maps-in-action (ctrl-F "Iteration order")
+// This function cycles through until nth becomes 0 or less. It basically
+// draws a random word, and whose count is then subtracted from nth. This
+// preserves the probability, since nth is a random number from 0 to the total
+// number of possible second words, and each is weighted by its count.
+func getRandomTreeKey(tree *map[string]map[string]int) string {
 	var key string
-	var randomString string
-	var word string
-	var position int
-	// var quoteOpen bool TODO: Fix so that all quotes are closed
+	nth := randInt(0, (*tree)["_appearances"]["total"])
 	for key = range *tree {
-		if word != "_appearances" {
+		if key == "_appearances" {
+			continue
+		}
+		nth = nth - (*tree)[key]["_appearances"]
+		if nth <= 0 {
 			break
 		}
 	}
+	return key
+}
 
-	randomString = strings.Title(key)
-	for len(randomString) < 280 {
-		secondMap := (*tree)[key]
-		nth := randInt(0, secondMap["_appearances"])
-		// Ranging through maps is basically random, per
-		// https://blog.golang.org/go-maps-in-action
-		// (ctrl-F "Iteration order")
-		// This section cycles through until nth becomes 0 or less.
-		// It basically draws a random word, and whose count is then
-		// subtracted from nth. This preserves the probability, since
-		// nth is a random number from 0 to the total number of
-		// possible second words, and each is weighted by its count
-		for word = range secondMap {
-			if word == "_appearances" {
-				continue
-			}
-			nth = nth - secondMap[word]
-			if nth <= 0 {
-				break
-			}
+// getRandomTreeKey takes a tree and returns a random key from all the keys.
+// Note that the keys are weighted by the total number of words in the corpus.
+func getRandomNodeKey(node map[string]int) string {
+	var key string
+	nth := randInt(0, node["_appearances"])
+	for key = range node {
+		if key == "_appearances" {
+			continue
 		}
+		nth = nth - node[key]
+		if nth <= 0 {
+			break
+		}
+	}
+	return key
+}
 
+// generateRandomString takes a Markov tree map of string[int] maps, and
+// returns a single string less than 280 characters (for Twitter).
+func generateRandomString(tree *map[string]map[string]int) string {
+	var position int
+	// var quoteOpen bool TODO: Fix so that all quotes are closed
+
+	key := getRandomTreeKey(tree)
+	randomString := strings.Title(key)
+	for len(randomString) < 280 {
+		word := getRandomNodeKey((*tree)[key])
 		switch word {
 		case ".", "!", "?":
 			position = len(randomString) + 1
-			for key = range *tree {
-				break
-			}
+			key = getRandomTreeKey(tree)
 			randomString = randomString + word + " " + strings.Title(key)
 		case ",", ";":
-			for key = range *tree {
-				break
-			}
+			key = getRandomTreeKey(tree)
 			randomString = randomString + word + " " + key
 		case "i", "zarathustra":
 			randomString = randomString + " " + strings.Title(word)
@@ -170,8 +190,6 @@ func generateRandomString(tree *map[string]map[string]int) string {
 		}
 	}
 
-	// FIXME: This only runs once, what if the string never has an ending?
-	// TODO: Check for open quotes
 	return randomString[:position]
 }
 
@@ -186,8 +204,11 @@ func twitterLogin() *anaconda.TwitterApi {
 // makePost takes a Markov tree, then gets a Twitter API Client and a new
 // random string and posts it
 func makePost(tree *map[string]map[string]int) {
+	var text string
 	twitterClient := twitterLogin()
-	text := generateRandomString(tree)
+	for text == "" {
+		text = generateRandomString(tree)
+	}
 	twitterClient.PostTweet(text, nil)
 }
 
