@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"log"
 	"math/rand"
@@ -50,7 +49,6 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 		end = len(text)
 	}
 	content := string(text[start:end])
-	fmt.Println(content[len(content)-30:])
 
 	tree := make(map[string]map[string]int)
 
