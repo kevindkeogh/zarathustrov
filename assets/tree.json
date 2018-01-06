@@ -1,6 +1,6 @@
 {
     "_appearances": {
-        "total": 106412
+        "total": 108034
     },
     "a": {
         ",": 1,
@@ -704,7 +704,8 @@
     },
     "abandoned": {
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "abandoned": 1,
         "for": 1,
         "friends": 1,
@@ -712,7 +713,8 @@
         "to": 1
     },
     "abash": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "any": 1,
         "bashfulness": 1,
         "him": 1
@@ -757,9 +759,10 @@
         "!": 2,
         ",": 5,
         ".": 1,
+        ":": 1,
         ";": 2,
         "?": 2,
-        "_appearances": 120,
+        "_appearances": 121,
         "a": 1,
         "again": 1,
         "all": 1,
@@ -823,7 +826,8 @@
     },
     "above": {
         ",": 2,
-        "_appearances": 44,
+        ":": 1,
+        "_appearances": 45,
         "abysses": 1,
         "all": 9,
         "and": 1,
@@ -915,7 +919,8 @@
         "!": 2,
         ",": 3,
         ".": 2,
-        "_appearances": 25,
+        ":": 2,
+        "_appearances": 27,
         "a": 1,
         "as": 1,
         "but": 2,
@@ -936,8 +941,9 @@
         "!": 1,
         ",": 1,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "and": 1,
         "courage": 1,
         "do": 1,
@@ -983,7 +989,8 @@
         "him": 1
     },
     "accomplish": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "accomplisheth": {
@@ -1008,8 +1015,9 @@
         "!": 3,
         ",": 3,
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 57,
+        "_appearances": 58,
         "alone": 1,
         "also": 1,
         "and": 1,
@@ -1178,7 +1186,8 @@
         "for": 1
     },
     "addedst": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "adder": {
@@ -1361,7 +1370,8 @@
     },
     "afar": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "hear": 1
     },
@@ -1382,7 +1392,8 @@
         "speak": 1
     },
     "afflicted": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "but": 1,
         "them": 1
     },
@@ -1390,8 +1401,9 @@
         "!": 1,
         ",": 6,
         ".": 2,
+        ":": 2,
         ";": 1,
-        "_appearances": 24,
+        "_appearances": 26,
         "all": 1,
         "and": 1,
         "but": 1,
@@ -1432,7 +1444,8 @@
     },
     "after": {
         ",": 1,
-        "_appearances": 59,
+        ":": 1,
+        "_appearances": 60,
         "a": 6,
         "all": 2,
         "another": 1,
@@ -1502,9 +1515,10 @@
         "!": 2,
         ",": 13,
         ".": 4,
+        ":": 3,
         ";": 2,
         "?": 1,
-        "_appearances": 154,
+        "_appearances": 157,
         "a": 1,
         "accept": 1,
         "all": 1,
@@ -1642,7 +1656,8 @@
     },
     "ages": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "then": 1
     },
@@ -1733,8 +1748,9 @@
         "!": 6,
         ",": 8,
         ".": 2,
+        ":": 1,
         ";": 3,
-        "_appearances": 57,
+        "_appearances": 58,
         "afterward": 1,
         "alas": 1,
         "and": 5,
@@ -1856,9 +1872,10 @@
         "!": 2,
         ",": 16,
         ".": 6,
+        ":": 3,
         ";": 2,
         "?": 3,
-        "_appearances": 765,
+        "_appearances": 768,
         "a": 2,
         "abysses": 1,
         "accusation": 1,
@@ -2256,8 +2273,9 @@
         "!": 7,
         ",": 11,
         ".": 6,
+        ":": 2,
         ";": 2,
-        "_appearances": 75,
+        "_appearances": 77,
         "am": 2,
         "amongst": 1,
         "and": 2,
@@ -2305,7 +2323,8 @@
     },
     "along": {
         ",": 1,
-        "_appearances": 25,
+        ":": 1,
+        "_appearances": 26,
         "abused": 1,
         "and": 2,
         "as": 1,
@@ -2742,7 +2761,8 @@
         "show": 1
     },
     "ambitious": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "one": 1,
         "where": 1
     },
@@ -2842,7 +2862,8 @@
     },
     "amusement": {
         "!": 2,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "that": 1,
         "there": 1,
         "wherever": 1
@@ -2952,7 +2973,8 @@
         "show": 1
     },
     "anchor": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "those": 1,
         "to": 1
     },
@@ -4590,8 +4612,9 @@
     "anew": {
         ",": 5,
         ".": 3,
+        ":": 1,
         ";": 1,
-        "_appearances": 28,
+        "_appearances": 29,
         "all": 1,
         "and": 1,
         "as": 1,
@@ -4641,7 +4664,8 @@
         "rabbits": 1
     },
     "angrily": {
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "at": 1,
         "contradicteth": 1,
@@ -4669,9 +4693,10 @@
     "animal": {
         ",": 1,
         ".": 3,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 28,
+        "_appearances": 29,
         "a": 1,
         "and": 6,
         "at": 2,
@@ -4690,9 +4715,10 @@
         "!": 4,
         ",": 18,
         ".": 5,
+        ":": 2,
         ";": 3,
         "?": 4,
-        "_appearances": 102,
+        "_appearances": 104,
         "again": 1,
         "alight": 1,
         "and": 6,
@@ -4741,7 +4767,8 @@
         "why": 1
     },
     "animosity": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "that": 1
     },
@@ -4751,7 +4778,8 @@
         "to": 1
     },
     "annihilated": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "how": 1
     },
     "annihilating": {
@@ -4814,8 +4842,9 @@
         "!": 3,
         ",": 17,
         ".": 5,
+        ":": 4,
         ";": 2,
-        "_appearances": 95,
+        "_appearances": 99,
         "alas": 1,
         "all": 2,
         "an": 1,
@@ -4881,7 +4910,8 @@
     },
     "answered": {
         ",": 1,
-        "_appearances": 59,
+        ":": 14,
+        "_appearances": 73,
         "ah": 1,
         "and": 1,
         "as": 1,
@@ -4989,7 +5019,8 @@
     },
     "apart": {
         "!": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 3,
         "he": 1,
         "whistling": 1
@@ -5145,7 +5176,8 @@
     },
     "approacheth": {
         ",": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "eventide": 1,
         "it": 1,
         "o": 1,
@@ -5403,7 +5435,8 @@
     "arise": {
         ",": 3,
         ".": 1,
-        "_appearances": 13,
+        ":": 2,
+        "_appearances": 15,
         "ah": 1,
         "an": 1,
         "and": 2,
@@ -5457,7 +5490,8 @@
     },
     "arose": {
         ",": 2,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "a": 1,
         "and": 1,
         "disconcerted": 1,
@@ -5505,7 +5539,8 @@
     },
     "arranging": {
         "!": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "see": 1,
         "ye": 1
     },
@@ -5549,8 +5584,9 @@
     },
     "arrows": {
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 9,
+        "_appearances": 10,
         "a": 1,
         "by": 1,
         "of": 1,
@@ -5563,8 +5599,9 @@
         "!": 2,
         ",": 4,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 112,
+        "_appearances": 113,
         "a": 4,
         "again": 1,
         "already": 1,
@@ -5790,7 +5827,8 @@
     },
     "ascended": {
         ",": 3,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "daringly": 1,
         "deeper": 1,
         "even": 1,
@@ -5830,7 +5868,8 @@
     },
     "ashes": {
         "!": 2,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "and": 2,
         "into": 1,
         "thou": 1,
@@ -5863,8 +5902,9 @@
     },
     "ask": {
         ".": 2,
+        ":": 3,
         ";": 1,
-        "_appearances": 27,
+        "_appearances": 30,
         "and": 1,
         "counsel": 1,
         "hath": 1,
@@ -5883,7 +5923,8 @@
     },
     "asked": {
         ",": 2,
-        "_appearances": 25,
+        ":": 3,
+        "_appearances": 28,
         "about": 1,
         "after": 1,
         "and": 1,
@@ -5905,7 +5946,8 @@
     },
     "asketh": {
         ",": 1,
-        "_appearances": 12,
+        ":": 2,
+        "_appearances": 14,
         "am": 1,
         "and": 4,
         "as": 1,
@@ -5944,7 +5986,8 @@
         "of": 1
     },
     "aspiration": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "to": 2
     },
     "ass": {
@@ -6011,11 +6054,13 @@
         "to": 1
     },
     "assistants": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "all": 1
     },
     "associate": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "the": 1,
         "with": 1
     },
@@ -6063,7 +6108,8 @@
         "inquired": 1
     },
     "astonishing": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "long": 1,
         "the": 1
     },
@@ -6102,13 +6148,15 @@
         "of": 1
     },
     "asunder": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "it": 1
     },
     "at": {
         "!": 1,
         ",": 2,
-        "_appearances": 419,
+        ":": 1,
+        "_appearances": 420,
         "a": 12,
         "abysses": 2,
         "all": 20,
@@ -6212,7 +6260,8 @@
         "zarathustra": 1
     },
     "attacketh": {
-        "_appearances": 4,
+        ":": 2,
+        "_appearances": 6,
         "for": 1,
         "it": 1,
         "me": 2
@@ -6296,7 +6345,8 @@
         "puny": 1
     },
     "auspices": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "then": 1
     },
     "authority": {
@@ -6307,7 +6357,8 @@
         "on": 1
     },
     "autumn": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "all": 1,
         "and": 2,
         "winds": 1
@@ -6368,8 +6419,9 @@
         "!": 1,
         ",": 6,
         ".": 6,
+        ":": 1,
         "?": 1,
-        "_appearances": 36,
+        "_appearances": 37,
         "all": 1,
         "and": 7,
         "at": 1,
@@ -6399,8 +6451,9 @@
     },
     "awakened": {
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 12,
+        "_appearances": 13,
         "but": 1,
         "him": 1,
         "in": 1,
@@ -6441,9 +6494,10 @@
         "!": 11,
         ",": 12,
         ".": 7,
+        ":": 2,
         ";": 2,
         "?": 2,
-        "_appearances": 155,
+        "_appearances": 157,
         "a": 1,
         "ah": 1,
         "all": 1,
@@ -6581,8 +6635,9 @@
         "!": 7,
         ",": 4,
         ".": 2,
+        ":": 2,
         ";": 2,
-        "_appearances": 60,
+        "_appearances": 62,
         "a": 1,
         "again": 2,
         "all": 1,
@@ -6619,7 +6674,8 @@
         "this": 1
     },
     "background": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thus": 1
     },
     "backing": {
@@ -6657,8 +6713,9 @@
     },
     "backwards": {
         ",": 1,
+        ":": 2,
         "?": 1,
-        "_appearances": 8,
+        "_appearances": 10,
         "behind": 1,
         "but": 1,
         "homewards": 1,
@@ -6677,7 +6734,8 @@
     "backworldsmen": {
         "!": 1,
         ".": 4,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "beyond": 1,
         "for": 1,
         "once": 1,
@@ -6690,7 +6748,8 @@
         "!": 1,
         ",": 5,
         ".": 7,
-        "_appearances": 89,
+        ":": 4,
+        "_appearances": 93,
         "actors": 1,
         "air": 1,
         "and": 4,
@@ -6751,7 +6810,8 @@
         "which": 1
     },
     "badder": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "not": 1
     },
     "baddest": {
@@ -6767,9 +6827,10 @@
     "badly": {
         "!": 2,
         ".": 1,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 26,
+        "_appearances": 28,
         "a": 1,
         "adapted": 1,
         "and": 3,
@@ -6919,7 +6980,8 @@
     },
     "basis": {
         ",": 1,
-        "_appearances": 10,
+        ":": 2,
+        "_appearances": 12,
         "and": 1,
         "is": 1,
         "of": 4,
@@ -6937,7 +6999,8 @@
         "thou": 1
     },
     "bath": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "on": 1
     },
     "batheth": {
@@ -6970,9 +7033,10 @@
         "!": 5,
         ",": 12,
         ".": 3,
+        ":": 2,
         ";": 2,
         "?": 2,
-        "_appearances": 629,
+        "_appearances": 631,
         "a": 48,
         "able": 7,
         "above": 1,
@@ -7279,7 +7343,8 @@
         "!": 5,
         ",": 1,
         ".": 2,
-        "_appearances": 30,
+        ":": 1,
+        "_appearances": 31,
         "a": 1,
         "amongst": 1,
         "and": 2,
@@ -7418,8 +7483,9 @@
         "!": 2,
         ",": 2,
         ".": 5,
+        ":": 2,
         "?": 1,
-        "_appearances": 34,
+        "_appearances": 36,
         "alone": 1,
         "and": 4,
         "begin": 1,
@@ -7522,8 +7588,9 @@
         "!": 2,
         ",": 7,
         ".": 2,
+        ":": 1,
         ";": 3,
-        "_appearances": 175,
+        "_appearances": 176,
         "a": 12,
         "again": 1,
         "aloft": 1,
@@ -7673,7 +7740,8 @@
     "bed": {
         ",": 2,
         ".": 1,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "a": 1,
         "and": 2,
         "however": 1,
@@ -7711,8 +7779,9 @@
         "!": 3,
         ",": 2,
         ".": 4,
+        ":": 2,
         "?": 1,
-        "_appearances": 120,
+        "_appearances": 122,
         "a": 7,
         "about": 1,
         "alas": 1,
@@ -7822,8 +7891,9 @@
     "before": {
         ",": 3,
         ".": 3,
+        ":": 1,
         "?": 4,
-        "_appearances": 101,
+        "_appearances": 102,
         "a": 2,
         "all": 1,
         "also": 1,
@@ -7870,7 +7940,8 @@
     "began": {
         ",": 1,
         ".": 1,
-        "_appearances": 20,
+        ":": 2,
+        "_appearances": 22,
         "again": 1,
         "anew": 1,
         "he": 3,
@@ -7889,7 +7960,8 @@
     "beggar": {
         ",": 6,
         ".": 2,
-        "_appearances": 21,
+        ":": 1,
+        "_appearances": 22,
         "at": 1,
         "enough": 1,
         "gone": 1,
@@ -7925,7 +7997,8 @@
     "beginneth": {
         ",": 1,
         ".": 1,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "also": 1,
         "arise": 1,
         "existence": 1,
@@ -7937,7 +8010,8 @@
         "!": 2,
         ",": 1,
         ".": 1,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "a": 1,
         "afric": 1,
         "curiously": 1,
@@ -8048,7 +8122,8 @@
     },
     "being": {
         ",": 6,
-        "_appearances": 35,
+        ":": 1,
+        "_appearances": 36,
         "a": 1,
         "allowed": 1,
         "an": 1,
@@ -8094,7 +8169,8 @@
         "!": 1,
         ",": 1,
         ".": 2,
-        "_appearances": 23,
+        ":": 1,
+        "_appearances": 24,
         "and": 2,
         "behold": 1,
         "but": 1,
@@ -8115,7 +8191,8 @@
     },
     "believe": {
         ",": 5,
-        "_appearances": 56,
+        ":": 1,
+        "_appearances": 57,
         "any": 1,
         "everything": 2,
         "fully": 1,
@@ -8161,8 +8238,9 @@
     "believers": {
         "!": 1,
         ",": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 12,
+        "_appearances": 13,
         "but": 1,
         "either": 1,
         "in": 2,
@@ -8213,11 +8291,13 @@
         "fire": 1
     },
     "bellies": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "an": 1
     },
     "bellows": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "box": 1,
         "do": 1,
         "they": 1
@@ -8288,7 +8368,8 @@
         "me": 1
     },
     "benedictions": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "i": 1
     },
     "benefactor": {
@@ -8371,9 +8452,10 @@
         "!": 2,
         ",": 10,
         ".": 4,
+        ":": 2,
         ";": 2,
         "?": 1,
-        "_appearances": 108,
+        "_appearances": 110,
         "also": 1,
         "and": 5,
         "bait": 2,
@@ -8448,7 +8530,8 @@
     },
     "bestower": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "gold": 1,
         "willingly": 1
     },
@@ -8678,7 +8761,8 @@
     "bird": {
         ",": 2,
         ".": 1,
-        "_appearances": 19,
+        ":": 1,
+        "_appearances": 20,
         "amongst": 1,
         "and": 2,
         "built": 1,
@@ -8861,8 +8945,9 @@
         "verily": 1
     },
     "blasphemy": {
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "against": 1,
         "but": 1,
         "that": 1,
@@ -8965,7 +9050,8 @@
     "blessing": {
         ",": 2,
         ".": 1,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "and": 2,
         "from": 1,
         "night": 1,
@@ -8987,7 +9073,8 @@
     "blind": {
         ",": 2,
         ".": 2,
-        "_appearances": 17,
+        ":": 1,
+        "_appearances": 18,
         "and": 4,
         "canst": 1,
         "lightning": 1,
@@ -9021,7 +9108,8 @@
     },
     "blinketh": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "the": 2,
         "we": 1
     },
@@ -9033,9 +9121,10 @@
         "!": 3,
         ",": 2,
         ".": 3,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 25,
+        "_appearances": 26,
         "and": 2,
         "but": 1,
         "come": 1,
@@ -9194,8 +9283,9 @@
         "alas": 1
     },
     "blundering": {
+        ":": 1,
         "?": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "body": 1,
         "give": 1
     },
@@ -9256,7 +9346,8 @@
     "boat": {
         "!": 1,
         ",": 1,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "and": 1,
         "floateth": 1,
         "how": 1,
@@ -9292,9 +9383,10 @@
         "!": 2,
         ",": 13,
         ".": 7,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 87,
+        "_appearances": 88,
         "a": 3,
         "am": 2,
         "and": 13,
@@ -9391,7 +9483,8 @@
         "clock": 1
     },
     "booty": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "he": 2,
         "lusting": 1,
         "thereby": 1
@@ -9404,7 +9497,8 @@
         "!": 1,
         ",": 1,
         ".": 1,
-        "_appearances": 16,
+        ":": 1,
+        "_appearances": 17,
         "and": 1,
         "blind": 1,
         "child": 1,
@@ -9535,7 +9629,8 @@
         "!": 1,
         ",": 2,
         ".": 3,
-        "_appearances": 18,
+        ":": 1,
+        "_appearances": 19,
         "and": 2,
         "confusion": 1,
         "let": 1,
@@ -9601,7 +9696,8 @@
     },
     "brave": {
         ",": 1,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "but": 1,
         "hearts": 1,
         "is": 2,
@@ -9710,7 +9806,8 @@
     "breasts": {
         ",": 1,
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 1,
         "kissed": 1,
         "of": 2,
@@ -9720,8 +9817,9 @@
         "!": 1,
         ",": 4,
         ".": 2,
+        ":": 2,
         ";": 1,
-        "_appearances": 27,
+        "_appearances": 29,
         "a": 2,
         "alas": 1,
         "also": 1,
@@ -9740,7 +9838,8 @@
         "toucheth": 1
     },
     "breathe": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "mountain": 1,
         "sultry": 1,
         "wantonness": 1
@@ -9776,9 +9875,10 @@
     "brethren": {
         "!": 11,
         ",": 57,
+        ":": 2,
         ";": 1,
         "?": 4,
-        "_appearances": 154,
+        "_appearances": 156,
         "a": 2,
         "am": 1,
         "an": 1,
@@ -9839,8 +9939,9 @@
         "!": 1,
         ",": 3,
         ".": 3,
+        ":": 1,
         ";": 1,
-        "_appearances": 24,
+        "_appearances": 25,
         "a": 2,
         "all": 1,
         "and": 2,
@@ -9858,7 +9959,8 @@
     },
     "bridges": {
         ",": 1,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "and": 2,
         "for": 1,
         "may": 1,
@@ -9995,7 +10097,8 @@
         "wings": 1
     },
     "brood": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "of": 1,
         "praised": 1
     },
@@ -10016,8 +10119,9 @@
     "brother": {
         ",": 14,
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 36,
+        "_appearances": 37,
         "and": 1,
         "are": 1,
         "hast": 1,
@@ -10176,7 +10280,8 @@
         "which": 1
     },
     "bulrushes": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "virtue": 1
     },
     "bulwark": {
@@ -10535,8 +10640,9 @@
         "!": 2,
         ",": 3,
         ".": 3,
+        ":": 1,
         "?": 2,
-        "_appearances": 204,
+        "_appearances": 205,
         "a": 2,
         "accepting": 1,
         "all": 6,
@@ -10636,7 +10742,8 @@
         "upon": 1
     },
     "cabinets": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "here": 1
     },
     "cackle": {
@@ -10711,9 +10818,10 @@
     "called": {
         ",": 1,
         ".": 4,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 86,
+        "_appearances": 87,
         "and": 2,
         "at": 1,
         "bad": 1,
@@ -10783,8 +10891,9 @@
         "what": 1
     },
     "calling": {
+        ":": 1,
         ";": 1,
-        "_appearances": 4,
+        "_appearances": 5,
         "it": 1,
         "therefore": 1,
         "therein": 1
@@ -10823,7 +10932,8 @@
         "into": 1
     },
     "calves": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "unto": 1
     },
     "came": {
@@ -10930,7 +11040,8 @@
         "your": 2
     },
     "candidly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "just": 1
     },
     "cankers": {
@@ -11083,7 +11194,8 @@
         "ones": 1
     },
     "carpets": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "but": 1,
         "of": 1
     },
@@ -11247,7 +11359,8 @@
     },
     "caught": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "but": 1,
         "he": 1
     },
@@ -11299,9 +11412,10 @@
         "!": 3,
         ",": 13,
         ".": 8,
+        ":": 7,
         ";": 2,
         "?": 1,
-        "_appearances": 83,
+        "_appearances": 90,
         "all": 1,
         "and": 11,
         "be": 2,
@@ -11346,14 +11460,16 @@
         "became": 1
     },
     "caverns": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "woman": 1
     },
     "caves": {
         "!": 1,
         ",": 2,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "and": 5,
         "hiding": 1,
         "oh": 1,
@@ -11409,12 +11525,14 @@
         "things": 1
     },
     "cellar": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "but": 1,
         "when": 1
     },
     "cellars": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "many": 1
     },
     "censed": {
@@ -11426,7 +11544,8 @@
         "of": 1
     },
     "certain": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "i": 1,
         "it": 1,
         "youth": 1
@@ -11501,8 +11620,9 @@
         "!": 1,
         ",": 3,
         ".": 3,
+        ":": 1,
         ";": 2,
-        "_appearances": 25,
+        "_appearances": 26,
         "and": 2,
         "as": 1,
         "came": 1,
@@ -11522,7 +11642,8 @@
     },
     "chances": {
         ",": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "but": 2,
         "every": 1,
         "that": 1,
@@ -11550,8 +11671,9 @@
     "changed": {
         ",": 3,
         ".": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 16,
+        "_appearances": 18,
         "and": 3,
         "at": 1,
         "but": 1,
@@ -11680,7 +11802,8 @@
     },
     "cheeks": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "how": 1,
         "of": 1,
         "ye": 1
@@ -11727,7 +11850,8 @@
         "and": 1
     },
     "chilblains": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "at": 1,
         "either": 1
     },
@@ -11735,9 +11859,10 @@
         "!": 1,
         ",": 6,
         ".": 6,
+        ":": 2,
         ";": 2,
         "?": 2,
-        "_appearances": 61,
+        "_appearances": 63,
         "and": 8,
         "art": 1,
         "bearer": 2,
@@ -11772,7 +11897,8 @@
         "with": 1
     },
     "childhood": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "then": 1
     },
     "childish": {
@@ -11789,8 +11915,9 @@
         "!": 3,
         ",": 16,
         ".": 1,
+        ":": 3,
         "?": 4,
-        "_appearances": 80,
+        "_appearances": 83,
         "and": 5,
         "angels": 1,
         "answered": 1,
@@ -11846,7 +11973,8 @@
     },
     "choice": {
         "!": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "either": 1,
         "except": 1,
         "the": 1
@@ -11971,7 +12099,8 @@
     },
     "cities": {
         ",": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 2,
         "did": 1,
         "dwell": 1,
@@ -11981,7 +12110,8 @@
         "!": 1,
         ",": 3,
         ".": 2,
-        "_appearances": 21,
+        ":": 1,
+        "_appearances": 22,
         "and": 5,
         "did": 1,
         "he": 1,
@@ -12149,7 +12279,8 @@
         "up": 1
     },
     "climbing": {
-        "_appearances": 4,
+        ":": 2,
+        "_appearances": 6,
         "a": 1,
         "and": 2,
         "in": 1
@@ -12171,11 +12302,13 @@
         "of": 1
     },
     "cloak": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "clock": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "bell": 5,
         "it": 1,
         "strike": 1
@@ -12196,7 +12329,8 @@
         "to": 6
     },
     "closed": {
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "eyes": 2,
         "heaven": 1,
         "his": 1,
@@ -12232,7 +12366,8 @@
     "clothes": {
         "!": 1,
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "but": 1,
         "so": 1,
         "that": 1,
@@ -12247,8 +12382,9 @@
         "!": 1,
         ",": 4,
         ".": 3,
+        ":": 2,
         ";": 2,
-        "_appearances": 35,
+        "_appearances": 37,
         "about": 1,
         "adverse": 1,
         "after": 1,
@@ -12279,8 +12415,9 @@
         "!": 1,
         ",": 2,
         ".": 2,
+        ":": 3,
         ";": 1,
-        "_appearances": 18,
+        "_appearances": 21,
         "and": 4,
         "did": 1,
         "i": 1,
@@ -12339,7 +12476,8 @@
     },
     "cobweb": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 1,
         "spinning": 1,
         "that": 1
@@ -12367,7 +12505,8 @@
     },
     "coffins": {
         "!": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "did": 1,
         "flow": 1,
         "full": 1,
@@ -12399,7 +12538,8 @@
     },
     "cold": {
         ",": 9,
-        "_appearances": 41,
+        ":": 1,
+        "_appearances": 42,
         "all": 1,
         "and": 7,
         "are": 1,
@@ -12427,7 +12567,8 @@
         "withered": 1
     },
     "colder": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "thereby": 1
     },
@@ -12514,8 +12655,9 @@
         "!": 9,
         ",": 12,
         ".": 4,
+        ":": 4,
         ";": 2,
-        "_appearances": 158,
+        "_appearances": 162,
         "a": 1,
         "again": 2,
         "along": 2,
@@ -12578,8 +12720,9 @@
     "cometh": {
         "!": 2,
         ",": 8,
+        ":": 2,
         "?": 1,
-        "_appearances": 70,
+        "_appearances": 72,
         "a": 1,
         "also": 1,
         "and": 4,
@@ -12621,7 +12764,8 @@
         "with": 1
     },
     "comfortable": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "ones": 3,
         "they": 1
     },
@@ -12807,7 +12951,8 @@
     },
     "company": {
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "for": 1,
         "is": 1,
         "stood": 1,
@@ -12911,7 +13056,8 @@
         "soul": 1
     },
     "compressed": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "it": 1,
         "lips": 1,
         "souls": 1
@@ -12926,7 +13072,8 @@
         "my": 1
     },
     "comradeship": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "may": 1
     },
     "conceal": {
@@ -13091,7 +13238,8 @@
     },
     "confounded": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "except": 1,
         "for": 1,
         "with": 1
@@ -13119,11 +13267,13 @@
         "feelings": 1
     },
     "congratulatingly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "health": 1
     },
     "conjecture": {
-        "_appearances": 5,
+        ":": 3,
+        "_appearances": 8,
         "but": 3,
         "such": 1,
         "without": 1
@@ -13170,7 +13320,8 @@
     },
     "conscience": {
         ".": 4,
-        "_appearances": 24,
+        ":": 1,
+        "_appearances": 25,
         "alone": 1,
         "and": 2,
         "art": 1,
@@ -13293,7 +13444,8 @@
     "consolation": {
         ",": 3,
         ".": 1,
-        "_appearances": 14,
+        ":": 1,
+        "_appearances": 15,
         "all": 1,
         "already": 1,
         "and": 1,
@@ -13531,7 +13683,8 @@
     "convalescence": {
         ",": 1,
         ".": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "so": 1,
         "would": 1
@@ -13562,7 +13715,8 @@
         "made": 1
     },
     "conversation": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "how": 1,
         "of": 1
@@ -13717,7 +13871,8 @@
     },
     "corpse": {
         ".": 3,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "and": 1,
         "clothes": 1,
         "coloured": 1,
@@ -13753,7 +13908,8 @@
     },
     "couch": {
         ",": 5,
-        "_appearances": 16,
+        ":": 1,
+        "_appearances": 17,
         "and": 2,
         "at": 1,
         "beside": 1,
@@ -13860,9 +14016,10 @@
     "countenance": {
         ",": 3,
         ".": 1,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 20,
+        "_appearances": 22,
         "and": 3,
         "became": 1,
         "changed": 1,
@@ -13904,7 +14061,8 @@
         "!": 1,
         ",": 6,
         ".": 1,
-        "_appearances": 35,
+        ":": 2,
+        "_appearances": 37,
         "and": 1,
         "at": 2,
         "before": 1,
@@ -13937,8 +14095,9 @@
     "course": {
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 14,
+        "_appearances": 15,
         "and": 1,
         "between": 1,
         "from": 1,
@@ -13950,8 +14109,9 @@
         "will": 1
     },
     "courses": {
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "learn": 1,
         "on": 1,
         "teaching": 1,
@@ -13994,7 +14154,8 @@
     },
     "cove": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "it": 1,
         "so": 1
     },
@@ -14108,7 +14269,8 @@
         "the": 1
     },
     "crackers": {
-        "_appearances": 2,
+        ":": 2,
+        "_appearances": 4,
         "precisely": 1,
         "thus": 1
     },
@@ -14227,7 +14389,8 @@
     },
     "created": {
         ",": 1,
-        "_appearances": 24,
+        ":": 2,
+        "_appearances": 26,
         "all": 2,
         "and": 2,
         "by": 1,
@@ -14254,8 +14417,9 @@
         "!": 2,
         ",": 2,
         ".": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 44,
+        "_appearances": 46,
         "agency": 1,
         "ah": 1,
         "and": 1,
@@ -14300,8 +14464,9 @@
     "creator": {
         ",": 3,
         ".": 4,
+        ":": 1,
         ";": 1,
-        "_appearances": 26,
+        "_appearances": 27,
         "a": 1,
         "all": 1,
         "and": 3,
@@ -14391,7 +14556,8 @@
     },
     "cried": {
         ",": 1,
-        "_appearances": 30,
+        ":": 2,
+        "_appearances": 32,
         "ah": 1,
         "all": 2,
         "as": 1,
@@ -14490,7 +14656,8 @@
         "ran": 1
     },
     "crocodiles": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "crooked": {
@@ -14534,7 +14701,8 @@
         "his": 1
     },
     "crosses": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "but": 1,
         "it": 1
     },
@@ -14586,7 +14754,8 @@
     "crown": {
         "!": 2,
         ",": 1,
-        "_appearances": 11,
+        ":": 2,
+        "_appearances": 13,
         "i": 2,
         "laughing": 1,
         "lift": 1,
@@ -14678,7 +14847,8 @@
         "!": 2,
         ",": 4,
         ".": 2,
-        "_appearances": 47,
+        ":": 6,
+        "_appearances": 53,
         "all": 1,
         "and": 3,
         "away": 1,
@@ -14817,7 +14987,8 @@
         "!": 1,
         ",": 1,
         ".": 1,
-        "_appearances": 14,
+        ":": 1,
+        "_appearances": 15,
         "a": 1,
         "all": 1,
         "from": 1,
@@ -14938,8 +15109,9 @@
         "!": 1,
         ",": 1,
         ".": 3,
+        ":": 2,
         ";": 2,
-        "_appearances": 44,
+        "_appearances": 46,
         "a": 1,
         "after": 1,
         "and": 4,
@@ -14971,7 +15143,8 @@
     },
     "danced": {
         ".": 1,
-        "_appearances": 9,
+        ":": 3,
+        "_appearances": 12,
         "a": 1,
         "and": 1,
         "beyond": 2,
@@ -15011,8 +15184,9 @@
         "when": 1
     },
     "dances": {
+        ":": 1,
         "?": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "if": 1,
         "or": 1
     },
@@ -15034,8 +15208,9 @@
     "dancing": {
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 18,
+        "_appearances": 19,
         "are": 1,
         "bear": 1,
         "floor": 1,
@@ -15097,7 +15272,8 @@
         "persistent": 1
     },
     "dangers": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "none": 1
     },
     "dangled": {
@@ -15210,16 +15386,18 @@
         "i": 1
     },
     "dawns": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "the": 1
     },
     "day": {
         "!": 6,
         ",": 21,
         ".": 10,
+        ":": 8,
         ";": 5,
         "?": 2,
-        "_appearances": 215,
+        "_appearances": 223,
         "a": 2,
         "ability": 1,
         "after": 1,
@@ -15328,8 +15506,9 @@
     "days": {
         "!": 2,
         ",": 3,
+        ":": 2,
         ";": 1,
-        "_appearances": 20,
+        "_appearances": 22,
         "and": 2,
         "he": 1,
         "his": 1,
@@ -15348,8 +15527,9 @@
         "!": 2,
         ",": 4,
         ".": 5,
+        ":": 2,
         ";": 1,
-        "_appearances": 44,
+        "_appearances": 46,
         "after": 1,
         "and": 3,
         "are": 1,
@@ -15433,9 +15613,10 @@
         "!": 5,
         ",": 10,
         ".": 14,
+        ":": 3,
         ";": 3,
         "?": 3,
-        "_appearances": 100,
+        "_appearances": 103,
         "a": 1,
         "all": 1,
         "and": 10,
@@ -15492,7 +15673,8 @@
         "at": 1
     },
     "decay": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "here": 1
     },
     "decayed": {
@@ -15510,7 +15692,8 @@
         "ones": 1
     },
     "deceit": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "we": 1
     },
@@ -15520,7 +15703,8 @@
     },
     "deceive": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "me": 1,
         "most": 1,
         "so": 1,
@@ -15614,7 +15798,8 @@
     "deed": {
         ",": 2,
         ".": 5,
-        "_appearances": 21,
+        ":": 2,
+        "_appearances": 23,
         "ah": 1,
         "and": 2,
         "but": 1,
@@ -15640,7 +15825,8 @@
         "!": 1,
         ",": 11,
         ".": 2,
-        "_appearances": 63,
+        ":": 3,
+        "_appearances": 66,
         "and": 6,
         "as": 1,
         "breast": 1,
@@ -15726,7 +15912,8 @@
         "and": 2
     },
     "defiant": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "voice": 1,
         "yea": 1
     },
@@ -15799,8 +15986,9 @@
     "delight": {
         "!": 4,
         ",": 4,
+        ":": 2,
         ";": 3,
-        "_appearances": 41,
+        "_appearances": 43,
         "a": 1,
         "alone": 1,
         "and": 6,
@@ -15825,7 +16013,8 @@
         "the": 1
     },
     "delighteth": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "i": 1
     },
     "delightful": {
@@ -15834,7 +16023,8 @@
         "to": 1
     },
     "delightfully": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "deliver": {
@@ -15946,7 +16136,8 @@
         "with": 1
     },
     "deplored": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "how": 1
     },
     "deposit": {
@@ -15961,9 +16152,10 @@
         "!": 4,
         ",": 1,
         ".": 3,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 29,
+        "_appearances": 30,
         "ah": 1,
         "and": 1,
         "but": 1,
@@ -15986,8 +16178,9 @@
     "depths": {
         "!": 1,
         ".": 3,
+        ":": 1,
         "?": 1,
-        "_appearances": 15,
+        "_appearances": 16,
         "a": 1,
         "and": 1,
         "away": 1,
@@ -16038,8 +16231,9 @@
         "!": 1,
         ",": 1,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 14,
+        "_appearances": 15,
         "and": 1,
         "even": 1,
         "for": 1,
@@ -16051,7 +16245,8 @@
         "was": 1
     },
     "deserted": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "deserts": {
@@ -16084,7 +16279,8 @@
     "desire": {
         ",": 3,
         ".": 3,
-        "_appearances": 29,
+        ":": 2,
+        "_appearances": 31,
         "a": 1,
         "and": 4,
         "but": 1,
@@ -16144,7 +16340,8 @@
         "from": 2
     },
     "despair": {
-        "_appearances": 3,
+        ":": 2,
+        "_appearances": 5,
         "in": 1,
         "it": 1,
         "than": 1
@@ -16182,7 +16379,8 @@
     "despised": {
         ",": 1,
         ".": 1,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "by": 1,
         "himself": 2,
         "the": 1,
@@ -16235,7 +16433,8 @@
     },
     "destiny": {
         ",": 2,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "ever": 1,
         "o": 1,
         "on": 1,
@@ -16315,9 +16514,10 @@
         "!": 4,
         ",": 9,
         ".": 2,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 55,
+        "_appearances": 57,
         "ah": 1,
         "and": 6,
         "but": 1,
@@ -16542,8 +16742,9 @@
         "!": 3,
         ",": 6,
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 44,
+        "_appearances": 45,
         "and": 4,
         "at": 4,
         "but": 1,
@@ -16572,8 +16773,9 @@
         "!": 1,
         ",": 2,
         ".": 4,
+        ":": 1,
         "?": 1,
-        "_appearances": 21,
+        "_appearances": 22,
         "and": 2,
         "before": 1,
         "in": 1,
@@ -16617,7 +16819,8 @@
     "difficult": {
         ",": 1,
         ".": 1,
-        "_appearances": 17,
+        ":": 1,
+        "_appearances": 18,
         "and": 1,
         "art": 1,
         "but": 1,
@@ -16756,7 +16959,8 @@
         "his": 1
     },
     "discern": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "discerner": {
@@ -16802,9 +17006,10 @@
         "!": 1,
         ",": 8,
         ".": 1,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 33,
+        "_appearances": 35,
         "a": 1,
         "and": 3,
         "as": 1,
@@ -16855,7 +17060,8 @@
     },
     "discourse": {
         ",": 1,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "about": 1,
         "for": 1,
         "it": 1,
@@ -17123,7 +17329,8 @@
         "dog": 2
     },
     "dissuaded": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "from": 1,
         "lest": 1
     },
@@ -17168,7 +17375,8 @@
         "of": 1
     },
     "distinctly": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "it": 1
     },
@@ -17238,7 +17446,8 @@
     },
     "distrust": {
         ",": 2,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "all": 4,
         "and": 2,
         "in": 1,
@@ -17363,7 +17572,8 @@
         "where": 1
     },
     "divining": {
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 1,
         "flashes": 1,
         "powers": 2,
@@ -17504,9 +17714,10 @@
     "dog": {
         "!": 1,
         ",": 4,
+        ":": 4,
         ";": 4,
         "?": 3,
-        "_appearances": 46,
+        "_appearances": 50,
         "a": 2,
         "acted": 1,
         "and": 4,
@@ -17559,7 +17770,8 @@
     },
     "doing": {
         ",": 1,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "like": 1,
         "none": 1,
         "obscureth": 1,
@@ -17587,8 +17799,9 @@
         "!": 1,
         ",": 1,
         ".": 1,
+        ":": 1,
         "?": 3,
-        "_appearances": 17,
+        "_appearances": 18,
         "and": 2,
         "for": 1,
         "gave": 1,
@@ -17610,7 +17823,8 @@
         "animals": 1
     },
     "dominion": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "that": 1,
         "with": 1
     },
@@ -17668,7 +17882,8 @@
         "still": 1
     },
     "doorways": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "he": 1
     },
     "dost": {
@@ -17785,7 +18000,8 @@
         "!": 3,
         ",": 14,
         ".": 1,
-        "_appearances": 105,
+        ":": 3,
+        "_appearances": 108,
         "a": 1,
         "again": 2,
         "all": 1,
@@ -17836,7 +18052,8 @@
         "be": 1
     },
     "downhill": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "they": 1
     },
     "downpour": {
@@ -17850,7 +18067,8 @@
         "till": 1
     },
     "downsunken": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thus": 1
     },
     "downward": {
@@ -17862,7 +18080,8 @@
     },
     "downwards": {
         ",": 3,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "and": 1,
         "evenwards": 1,
         "faster": 1,
@@ -17901,7 +18120,8 @@
         "which": 1
     },
     "dragons": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "all": 1,
         "come": 1
     },
@@ -18038,7 +18258,8 @@
         "!": 2,
         ",": 2,
         ".": 1,
-        "_appearances": 16,
+        ":": 1,
+        "_appearances": 17,
         "and": 5,
         "delight": 1,
         "of": 1,
@@ -18096,7 +18317,8 @@
         "!": 1,
         ",": 3,
         ".": 2,
-        "_appearances": 32,
+        ":": 1,
+        "_appearances": 33,
         "a": 1,
         "again": 1,
         "all": 2,
@@ -18197,8 +18419,9 @@
     },
     "drops": {
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "and": 1,
         "but": 2,
         "exhausted": 1,
@@ -18278,8 +18501,9 @@
     },
     "drunken": {
         ",": 3,
+        ":": 1,
         "?": 1,
-        "_appearances": 17,
+        "_appearances": 18,
         "and": 1,
         "cruelty": 1,
         "his": 1,
@@ -18294,13 +18518,15 @@
         "ye": 1
     },
     "drunkenness": {
+        ":": 1,
         "?": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "and": 1,
         "hath": 1
     },
     "dry": {
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "grass": 1,
         "ground": 1,
         "land": 2,
@@ -18361,7 +18587,8 @@
         "rooms": 1
     },
     "duty": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "dwarf": {
@@ -18389,7 +18616,8 @@
     },
     "dwell": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "for": 1,
         "how": 1,
         "the": 1,
@@ -18408,7 +18636,8 @@
         "will": 1
     },
     "dwelleth": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "for": 1,
         "he": 1,
         "in": 2,
@@ -18466,7 +18695,8 @@
         "than": 1
     },
     "eagerly": {
-        "_appearances": 8,
+        ":": 2,
+        "_appearances": 10,
         "ah": 1,
         "and": 1,
         "but": 1,
@@ -18476,7 +18706,8 @@
         "to": 1
     },
     "eagerness": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "for": 2,
         "to": 1
     },
@@ -18508,7 +18739,8 @@
     },
     "eagles": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "like": 1,
         "neighbours": 1,
         "shall": 1,
@@ -18517,7 +18749,8 @@
     "ear": {
         "!": 3,
         ",": 5,
-        "_appearances": 30,
+        ":": 1,
+        "_appearances": 31,
         "an": 1,
         "and": 3,
         "as": 2,
@@ -18569,8 +18802,9 @@
         "!": 3,
         ",": 12,
         ".": 8,
+        ":": 4,
         ";": 2,
-        "_appearances": 72,
+        "_appearances": 76,
         "and": 5,
         "as": 1,
         "closed": 1,
@@ -18608,9 +18842,10 @@
         "!": 9,
         ",": 23,
         ".": 18,
+        ":": 7,
         ";": 2,
         "?": 3,
-        "_appearances": 171,
+        "_appearances": 178,
         "a": 2,
         "ah": 1,
         "all": 1,
@@ -18690,8 +18925,9 @@
         "!": 1,
         ",": 1,
         ".": 1,
+        ":": 2,
         "?": 1,
-        "_appearances": 17,
+        "_appearances": 19,
         "ah": 1,
         "and": 1,
         "bliss": 1,
@@ -18721,7 +18957,8 @@
         "downward": 1
     },
     "easier": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "footpaths": 1,
         "over": 1,
         "this": 1
@@ -18788,7 +19025,8 @@
         "well": 1
     },
     "echoed": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "all": 1,
         "through": 1
     },
@@ -18824,7 +19062,8 @@
         "it": 1
     },
     "effeminate": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "couch": 1,
         "there": 1,
         "type": 1
@@ -18848,8 +19087,9 @@
     "ego": {
         ",": 8,
         ".": 2,
+        ":": 3,
         ";": 1,
-        "_appearances": 30,
+        "_appearances": 33,
         "and": 5,
         "but": 1,
         "feel": 2,
@@ -18873,7 +19113,8 @@
     "either": {
         "!": 1,
         ".": 2,
-        "_appearances": 12,
+        ":": 2,
+        "_appearances": 14,
         "fellow": 1,
         "i": 1,
         "shame": 1,
@@ -18939,7 +19180,8 @@
     "else": {
         ",": 3,
         ".": 1,
-        "_appearances": 26,
+        ":": 1,
+        "_appearances": 27,
         "and": 1,
         "aside": 1,
         "become": 1,
@@ -18974,7 +19216,8 @@
         "them": 1
     },
     "emancipateth": {
-        "_appearances": 4,
+        ":": 4,
+        "_appearances": 8,
         "but": 1,
         "for": 1,
         "that": 1,
@@ -19050,7 +19293,8 @@
         "and": 1
     },
     "empires": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "away": 1
     },
     "emptier": {
@@ -19123,7 +19367,8 @@
         "!": 2,
         ",": 3,
         ".": 3,
-        "_appearances": 31,
+        ":": 2,
+        "_appearances": 33,
         "a": 1,
         "already": 1,
         "and": 3,
@@ -19188,15 +19433,17 @@
         "the": 1
     },
     "enduring": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "enemies": {
         "!": 4,
         ",": 8,
         ".": 1,
+        ":": 3,
         ";": 2,
-        "_appearances": 45,
+        "_appearances": 48,
         "ah": 1,
         "amongst": 1,
         "and": 3,
@@ -19368,8 +19615,9 @@
         "!": 1,
         ",": 4,
         ".": 1,
+        ":": 2,
         "?": 1,
-        "_appearances": 67,
+        "_appearances": 69,
         "answered": 1,
         "at": 1,
         "even": 1,
@@ -19475,7 +19723,8 @@
         "that": 1
     },
     "entreatingly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "as": 1
     },
     "envied": {
@@ -19504,7 +19753,8 @@
         "!": 1,
         ",": 2,
         ".": 4,
-        "_appearances": 24,
+        ":": 1,
+        "_appearances": 25,
         "and": 2,
         "at": 1,
         "bless": 1,
@@ -19530,9 +19780,10 @@
     "equal": {
         "!": 1,
         ".": 4,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 18,
+        "_appearances": 20,
         "and": 2,
         "before": 1,
         "degree": 1,
@@ -19864,7 +20115,8 @@
     "even": {
         "!": 1,
         ",": 2,
-        "_appearances": 230,
+        ":": 1,
+        "_appearances": 231,
         "a": 5,
         "above": 1,
         "across": 1,
@@ -19964,8 +20216,9 @@
         "!": 1,
         ",": 6,
         ".": 1,
+        ":": 1,
         "?": 2,
-        "_appearances": 45,
+        "_appearances": 46,
         "after": 1,
         "afterglows": 1,
         "also": 1,
@@ -20005,7 +20258,8 @@
     },
     "eventide": {
         "!": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "o": 1,
         "the": 1,
         "with": 1
@@ -20027,7 +20281,8 @@
     "ever": {
         ",": 2,
         ".": 2,
-        "_appearances": 136,
+        ":": 1,
+        "_appearances": 137,
         "a": 2,
         "any": 1,
         "are": 2,
@@ -20306,9 +20561,10 @@
         "!": 4,
         ",": 11,
         ".": 7,
+        ":": 5,
         ";": 7,
         "?": 2,
-        "_appearances": 134,
+        "_appearances": 139,
         "and": 9,
         "announcement": 1,
         "around": 1,
@@ -20495,7 +20751,8 @@
     },
     "exclaimed": {
         ",": 3,
-        "_appearances": 10,
+        ":": 2,
+        "_appearances": 12,
         "but": 1,
         "frightened": 1,
         "he": 1,
@@ -20634,7 +20891,8 @@
         "contempt": 1
     },
     "expected": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "he": 1
     },
     "expense": {
@@ -20651,7 +20909,8 @@
         "of": 1
     },
     "experienced": {
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "more": 1,
         "night": 1,
         "the": 2,
@@ -20843,9 +21102,10 @@
         "!": 7,
         ",": 16,
         ".": 9,
+        ":": 3,
         ";": 3,
         "?": 3,
-        "_appearances": 127,
+        "_appearances": 130,
         "and": 16,
         "as": 1,
         "at": 1,
@@ -20917,7 +21177,8 @@
         "!": 2,
         ",": 2,
         ".": 3,
-        "_appearances": 29,
+        ":": 1,
+        "_appearances": 30,
         "all": 1,
         "although": 1,
         "and": 3,
@@ -20990,9 +21251,10 @@
     "failure": {
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 1,
         "?": 2,
-        "_appearances": 12,
+        "_appearances": 13,
         "a": 1,
         "and": 1,
         "beyond": 1,
@@ -21094,7 +21356,8 @@
         "ye": 1
     },
     "falcon": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "how": 1
     },
     "fall": {
@@ -21160,7 +21423,8 @@
     "false": {
         "!": 1,
         ",": 3,
-        "_appearances": 33,
+        ":": 1,
+        "_appearances": 34,
         "and": 4,
         "are": 1,
         "be": 1,
@@ -21285,8 +21549,9 @@
     "far": {
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 45,
+        "_appearances": 46,
         "and": 2,
         "are": 1,
         "away": 4,
@@ -21376,7 +21641,8 @@
         "!": 4,
         ",": 3,
         ".": 5,
-        "_appearances": 37,
+        ":": 1,
+        "_appearances": 38,
         "and": 5,
         "as": 1,
         "because": 1,
@@ -21410,7 +21676,8 @@
     },
     "father": {
         ",": 1,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "and": 1,
         "but": 1,
         "for": 1,
@@ -21431,7 +21698,8 @@
     },
     "fathers": {
         ",": 2,
-        "_appearances": 18,
+        ":": 2,
+        "_appearances": 20,
         "all": 1,
         "and": 2,
         "are": 1,
@@ -21633,8 +21901,9 @@
         "who": 2
     },
     "feeling": {
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "did": 1,
         "forgive": 1,
         "suffereth": 1,
@@ -21652,8 +21921,9 @@
         "!": 1,
         ",": 9,
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 46,
+        "_appearances": 47,
         "and": 3,
         "behold": 1,
         "broad": 1,
@@ -21827,7 +22097,8 @@
     },
     "fetters": {
         ",": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "but": 1,
         "in": 1,
         "of": 2,
@@ -21981,7 +22252,8 @@
     "filth": {
         ",": 1,
         ".": 1,
-        "_appearances": 16,
+        ":": 1,
+        "_appearances": 17,
         "and": 2,
         "cast": 1,
         "hath": 2,
@@ -22035,7 +22307,8 @@
     "find": {
         ",": 2,
         ".": 1,
-        "_appearances": 55,
+        ":": 1,
+        "_appearances": 56,
         "a": 3,
         "again": 1,
         "and": 1,
@@ -22138,7 +22411,8 @@
         "!": 1,
         ",": 1,
         ".": 1,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "and": 1,
         "but": 1,
         "do": 1,
@@ -22335,7 +22609,8 @@
     },
     "fists": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "their": 1,
         "virtue": 1
     },
@@ -22392,7 +22667,8 @@
         "to": 1
     },
     "flamingoes": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "they": 1
     },
     "flap": {
@@ -22448,7 +22724,8 @@
         "me": 1
     },
     "flatteries": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "of": 1
     },
     "flattering": {
@@ -22456,7 +22733,8 @@
         "name": 1
     },
     "flatteringly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "see": 1
     },
     "flattery": {
@@ -22483,8 +22761,9 @@
     },
     "fled": {
         "!": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 10,
+        "_appearances": 11,
         "all": 1,
         "back": 1,
         "for": 1,
@@ -22669,8 +22948,9 @@
     "flow": {
         "!": 1,
         ",": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 15,
+        "_appearances": 16,
         "and": 1,
         "back": 1,
         "for": 1,
@@ -22801,8 +23081,9 @@
         "and": 1
     },
     "foaming": {
+        ":": 1,
         ";": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "fool": 3,
         "i": 1,
         "oh": 1,
@@ -22858,8 +23139,9 @@
         "with": 1
     },
     "follow": {
+        ":": 1,
         ";": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "close": 1,
         "even": 1,
         "i": 1,
@@ -22900,8 +23182,9 @@
         "!": 3,
         ",": 6,
         ".": 4,
+        ":": 1,
         "?": 2,
-        "_appearances": 46,
+        "_appearances": 47,
         "acquired": 1,
         "and": 4,
         "but": 1,
@@ -22947,8 +23230,9 @@
     "food": {
         ",": 3,
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 19,
+        "_appearances": 20,
         "also": 1,
         "and": 2,
         "despiser": 1,
@@ -22966,8 +23250,9 @@
         "!": 4,
         ",": 11,
         ".": 2,
+        ":": 4,
         "?": 1,
-        "_appearances": 60,
+        "_appearances": 64,
         "and": 4,
         "association": 1,
         "becometh": 1,
@@ -23035,7 +23320,8 @@
         "!": 1,
         ",": 1,
         ".": 1,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "and": 3,
         "did": 1,
         "legs": 1,
@@ -23455,7 +23741,8 @@
     },
     "foresight": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 2,
         "what": 1
     },
@@ -23486,7 +23773,8 @@
         "!": 1,
         ",": 4,
         ".": 1,
-        "_appearances": 19,
+        ":": 1,
+        "_appearances": 20,
         "and": 7,
         "caves": 1,
         "from": 1,
@@ -23522,7 +23810,8 @@
         "your": 2
     },
     "forgetful": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "forgetfulness": {
@@ -23609,7 +23898,8 @@
         "unto": 1
     },
     "formula": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "of": 1,
         "will": 1
     },
@@ -23623,7 +23913,8 @@
         "me": 1
     },
     "forsaken": {
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "amongst": 1,
         "and": 1,
         "so": 1,
@@ -23662,7 +23953,8 @@
         "!": 1,
         ",": 3,
         ".": 1,
-        "_appearances": 32,
+        ":": 2,
+        "_appearances": 34,
         "a": 1,
         "again": 1,
         "all": 1,
@@ -23708,7 +24000,8 @@
     },
     "forward": {
         ",": 1,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "and": 2,
         "as": 1,
         "that": 2,
@@ -23777,7 +24070,8 @@
         "!": 1,
         ",": 2,
         ".": 3,
-        "_appearances": 17,
+        ":": 1,
+        "_appearances": 18,
         "and": 1,
         "as": 1,
         "divining": 2,
@@ -23791,7 +24085,8 @@
     "fountains": {
         ",": 1,
         ".": 1,
-        "_appearances": 15,
+        ":": 1,
+        "_appearances": 16,
         "and": 1,
         "are": 2,
         "burst": 1,
@@ -23832,7 +24127,8 @@
         "of": 1
     },
     "fragments": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 2,
         "of": 1,
         "what": 1
@@ -23904,7 +24200,8 @@
         "!": 2,
         ",": 1,
         ".": 4,
-        "_appearances": 30,
+        ":": 3,
+        "_appearances": 33,
         "and": 3,
         "but": 1,
         "do": 1,
@@ -23979,9 +24276,10 @@
         "!": 2,
         ",": 12,
         ".": 5,
+        ":": 3,
         ";": 1,
         "?": 4,
-        "_appearances": 74,
+        "_appearances": 77,
         "and": 4,
         "answered": 1,
         "art": 1,
@@ -24031,9 +24329,10 @@
         "!": 10,
         ",": 19,
         ".": 6,
+        ":": 5,
         ";": 2,
         "?": 1,
-        "_appearances": 94,
+        "_appearances": 99,
         "all": 1,
         "and": 3,
         "but": 2,
@@ -24078,8 +24377,9 @@
     "friendship": {
         "!": 1,
         ".": 2,
+        ":": 2,
         "?": 1,
-        "_appearances": 10,
+        "_appearances": 12,
         "but": 1,
         "if": 1,
         "oh": 1,
@@ -24099,8 +24399,9 @@
     },
     "frightened": {
         ",": 4,
+        ":": 2,
         "?": 1,
-        "_appearances": 16,
+        "_appearances": 18,
         "and": 2,
         "as": 1,
         "by": 1,
@@ -24137,7 +24438,8 @@
         "and": 2
     },
     "frisk": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "also": 1
     },
     "frivolous": {
@@ -24432,7 +24734,8 @@
     },
     "furthest": {
         ",": 2,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "and": 2,
         "be": 1,
         "from": 1,
@@ -24456,9 +24759,10 @@
         "!": 3,
         ",": 4,
         ".": 4,
+        ":": 3,
         ";": 2,
         "?": 3,
-        "_appearances": 56,
+        "_appearances": 59,
         "a": 1,
         "and": 8,
         "as": 2,
@@ -24687,7 +24991,8 @@
         "thoughtfully": 1
     },
     "gazing": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "on": 1,
         "with": 2
     },
@@ -24743,7 +25048,8 @@
         "thing": 1
     },
     "gently": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "it": 1,
         "vibrated": 1
     },
@@ -24768,7 +25074,8 @@
     "gestures": {
         ",": 2,
         ".": 3,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "but": 1,
         "he": 1,
         "like": 1,
@@ -24812,7 +25119,8 @@
     "ghosts": {
         ",": 1,
         ".": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "createth": 1,
         "so": 1
@@ -24829,8 +25137,9 @@
     "giddy": {
         "!": 1,
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "doth": 1,
         "thou": 1,
         "through": 1,
@@ -24848,7 +25157,8 @@
         "when": 1
     },
     "gifted": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thus": 1
     },
     "gifts": {
@@ -24898,7 +25208,8 @@
     },
     "girls": {
         ",": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 1,
         "dancing": 1,
         "for": 1,
@@ -24985,9 +25296,10 @@
         "wings": 1
     },
     "giving": {
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 9,
+        "_appearances": 10,
         "and": 4,
         "birth": 1,
         "in": 1,
@@ -25029,7 +25341,8 @@
     "glance": {
         "!": 1,
         ",": 3,
-        "_appearances": 21,
+        ":": 1,
+        "_appearances": 22,
         "a": 1,
         "all": 1,
         "and": 2,
@@ -25092,7 +25405,8 @@
     },
     "gleams": {
         "!": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "how": 1,
         "no": 1,
         "of": 1
@@ -25158,7 +25472,8 @@
         "ways": 1
     },
     "glories": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "verily": 1
     },
     "glorifieth": {
@@ -25167,7 +25482,8 @@
     },
     "glory": {
         ".": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "in": 1,
         "such": 1,
@@ -25355,9 +25671,10 @@
     "goal": {
         ",": 8,
         ".": 5,
+        ":": 1,
         ";": 2,
         "?": 2,
-        "_appearances": 41,
+        "_appearances": 42,
         "a": 1,
         "alas": 1,
         "also": 1,
@@ -25416,9 +25733,10 @@
         "!": 15,
         ",": 15,
         ".": 12,
+        ":": 3,
         ";": 5,
         "?": 8,
-        "_appearances": 192,
+        "_appearances": 195,
         "a": 1,
         "ah": 1,
         "all": 1,
@@ -25503,7 +25821,8 @@
         "!": 3,
         ",": 1,
         ".": 2,
-        "_appearances": 15,
+        ":": 1,
+        "_appearances": 16,
         "and": 1,
         "but": 1,
         "i": 2,
@@ -25528,7 +25847,8 @@
         "!": 3,
         ",": 8,
         ".": 1,
-        "_appearances": 45,
+        ":": 3,
+        "_appearances": 48,
         "a": 1,
         "and": 6,
         "are": 2,
@@ -25598,8 +25918,9 @@
         "!": 1,
         ",": 2,
         ".": 11,
+        ":": 1,
         ";": 1,
-        "_appearances": 43,
+        "_appearances": 44,
         "alone": 1,
         "along": 1,
         "and": 5,
@@ -25713,9 +26034,10 @@
         "!": 1,
         ",": 23,
         ".": 9,
+        ":": 1,
         ";": 1,
         "?": 2,
-        "_appearances": 286,
+        "_appearances": 287,
         "a": 1,
         "actors": 2,
         "again": 1,
@@ -25952,7 +26274,8 @@
     "grapes": {
         ",": 1,
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "filled": 1,
         "in": 1,
         "rosy": 1,
@@ -26042,7 +26365,8 @@
     "graves": {
         ",": 3,
         ".": 1,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "and": 1,
         "are": 1,
         "do": 1,
@@ -26075,7 +26399,8 @@
     "great": {
         ",": 9,
         ".": 2,
-        "_appearances": 205,
+        ":": 1,
+        "_appearances": 206,
         "actors": 1,
         "adorers": 1,
         "affliction": 1,
@@ -26233,7 +26558,8 @@
         "!": 4,
         ",": 2,
         ".": 1,
-        "_appearances": 18,
+        ":": 3,
+        "_appearances": 21,
         "a": 2,
         "ah": 1,
         "and": 1,
@@ -26281,7 +26607,8 @@
     "greeting": {
         ",": 1,
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "for": 1,
         "his": 1,
         "it": 1,
@@ -26394,9 +26721,10 @@
         "!": 1,
         ",": 8,
         ".": 5,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 46,
+        "_appearances": 47,
         "a": 2,
         "absorbed": 1,
         "alas": 1,
@@ -26441,7 +26769,8 @@
         "with": 1
     },
     "grow": {
-        "_appearances": 5,
+        ":": 2,
+        "_appearances": 7,
         "again": 1,
         "thereon": 1,
         "upwards": 1,
@@ -26537,7 +26866,8 @@
     "guard": {
         "!": 2,
         ",": 2,
-        "_appearances": 20,
+        ":": 1,
+        "_appearances": 21,
         "against": 8,
         "also": 3,
         "freedom": 1,
@@ -26560,7 +26890,8 @@
         "that": 1
     },
     "guessed": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "to": 1
     },
     "guest": {
@@ -26584,7 +26915,8 @@
         "!": 3,
         ",": 5,
         ".": 2,
-        "_appearances": 26,
+        ":": 1,
+        "_appearances": 27,
         "all": 1,
         "also": 1,
         "an": 1,
@@ -26629,7 +26961,8 @@
         "thou": 1
     },
     "gulf": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "gurgle": {
@@ -26891,8 +27224,9 @@
         "!": 2,
         ",": 13,
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 78,
+        "_appearances": 79,
         "a": 1,
         "alone": 1,
         "already": 1,
@@ -26959,7 +27293,8 @@
         "!": 1,
         ",": 9,
         ".": 9,
-        "_appearances": 61,
+        ":": 3,
+        "_appearances": 64,
         "aloft": 1,
         "also": 1,
         "and": 8,
@@ -27038,7 +27373,8 @@
     },
     "happened": {
         ",": 3,
-        "_appearances": 31,
+        ":": 1,
+        "_appearances": 32,
         "also": 1,
         "for": 1,
         "in": 1,
@@ -27076,9 +27412,10 @@
         "!": 14,
         ",": 20,
         ".": 6,
+        ":": 1,
         ";": 2,
         "?": 5,
-        "_appearances": 144,
+        "_appearances": 145,
         "after": 2,
         "all": 2,
         "also": 1,
@@ -27336,7 +27673,8 @@
         "with": 1
     },
     "harvested": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "hast": {
@@ -27398,7 +27736,8 @@
         "the": 1
     },
     "hastily": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "away": 4,
         "behind": 1,
         "looked": 1,
@@ -27409,7 +27748,8 @@
         "eggs": 1
     },
     "hatcheth": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "tigers": 1
     },
     "hate": {
@@ -27450,7 +27790,8 @@
         "unto": 1
     },
     "hateth": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "for": 1,
         "he": 1,
         "the": 1,
@@ -27872,9 +28213,10 @@
     "he": {
         ",": 45,
         ".": 3,
+        ":": 2,
         ";": 2,
         "?": 2,
-        "_appearances": 857,
+        "_appearances": 859,
         "a": 3,
         "abode": 1,
         "about": 3,
@@ -28175,9 +28517,10 @@
     "head": {
         ",": 12,
         ".": 6,
+        ":": 4,
         ";": 1,
         "?": 3,
-        "_appearances": 73,
+        "_appearances": 77,
         "and": 12,
         "better": 1,
         "but": 2,
@@ -28418,9 +28761,10 @@
         "!": 17,
         ",": 30,
         ".": 17,
+        ":": 15,
         ";": 5,
         "?": 4,
-        "_appearances": 252,
+        "_appearances": 267,
         "a": 2,
         "after": 1,
         "ah": 1,
@@ -28547,15 +28891,17 @@
         "when": 1
     },
     "heartless": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "hearts": {
         "!": 1,
         ",": 9,
         ".": 8,
+        ":": 3,
         "?": 1,
-        "_appearances": 63,
+        "_appearances": 66,
         "a": 1,
         "ah": 1,
         "all": 1,
@@ -28617,8 +28963,9 @@
         "!": 6,
         ",": 8,
         ".": 5,
+        ":": 1,
         ";": 2,
-        "_appearances": 67,
+        "_appearances": 68,
         "above": 6,
         "and": 5,
         "at": 1,
@@ -28663,7 +29010,8 @@
     "heavens": {
         ",": 1,
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "did": 1,
         "emerge": 1,
         "for": 1,
@@ -28788,8 +29136,9 @@
         "!": 4,
         ",": 9,
         ".": 3,
+        ":": 1,
         "?": 2,
-        "_appearances": 52,
+        "_appearances": 53,
         "and": 6,
         "bubbleth": 1,
         "but": 1,
@@ -28827,7 +29176,8 @@
     "heir": {
         ",": 2,
         ".": 2,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "and": 2,
         "but": 1,
         "he": 1,
@@ -28854,7 +29204,8 @@
         "!": 1,
         ",": 3,
         ".": 1,
-        "_appearances": 18,
+        ":": 4,
+        "_appearances": 22,
         "about": 1,
         "and": 1,
         "behold": 1,
@@ -28935,8 +29286,9 @@
     "her": {
         "!": 1,
         ".": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 38,
+        "_appearances": 40,
         "and": 3,
         "bite": 1,
         "but": 1,
@@ -29041,9 +29393,10 @@
         "!": 1,
         ",": 13,
         ".": 3,
+        ":": 3,
         ";": 1,
         "?": 4,
-        "_appearances": 175,
+        "_appearances": 178,
         "all": 2,
         "aloft": 3,
         "also": 1,
@@ -29224,7 +29577,8 @@
     },
     "hidden": {
         ",": 1,
-        "_appearances": 19,
+        ":": 1,
+        "_appearances": 20,
         "and": 1,
         "from": 2,
         "god": 1,
@@ -29389,9 +29743,10 @@
         "!": 10,
         ",": 53,
         ".": 40,
+        ":": 15,
         ";": 14,
         "?": 5,
-        "_appearances": 452,
+        "_appearances": 467,
         "a": 9,
         "about": 1,
         "above": 1,
@@ -29521,9 +29876,10 @@
         "!": 5,
         ",": 31,
         ".": 15,
+        ":": 9,
         ";": 4,
         "?": 4,
-        "_appearances": 207,
+        "_appearances": 216,
         "a": 8,
         "again": 1,
         "ah": 3,
@@ -29975,7 +30331,8 @@
     },
     "hodgepodge": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "populace": 1,
         "therein": 1
     },
@@ -30077,9 +30434,10 @@
     "home": {
         ",": 5,
         ".": 5,
+        ":": 4,
         ";": 2,
         "?": 2,
-        "_appearances": 52,
+        "_appearances": 56,
         "among": 1,
         "and": 5,
         "blue": 1,
@@ -30120,7 +30478,8 @@
     },
     "honest": {
         ",": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "it": 1,
         "namely": 1,
         "one": 1,
@@ -30148,9 +30507,10 @@
     "honey": {
         ",": 4,
         ".": 2,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 34,
+        "_appearances": 36,
         "all": 1,
         "and": 1,
         "away": 1,
@@ -30174,7 +30534,8 @@
         "!": 5,
         ",": 2,
         ".": 2,
-        "_appearances": 40,
+        ":": 2,
+        "_appearances": 42,
         "always": 1,
         "and": 4,
         "betimes": 1,
@@ -30199,7 +30560,8 @@
         "verily": 1
     },
     "honourable": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "but": 1,
         "guests": 1,
         "ones": 1
@@ -30266,8 +30628,9 @@
         "!": 5,
         ",": 2,
         ".": 7,
+        ":": 3,
         ";": 1,
-        "_appearances": 44,
+        "_appearances": 47,
         "always": 1,
         "and": 6,
         "away": 1,
@@ -30330,7 +30693,8 @@
     },
     "horns": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 1,
         "breaketh": 1,
         "so": 1
@@ -30349,7 +30713,8 @@
     },
     "horse": {
         ",": 2,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "and": 1,
         "but": 1,
         "foot": 1,
@@ -30453,9 +30818,10 @@
         "!": 2,
         ",": 5,
         ".": 3,
+        ":": 3,
         ";": 1,
         "?": 2,
-        "_appearances": 71,
+        "_appearances": 74,
         "and": 1,
         "approacheth": 1,
         "before": 1,
@@ -30509,8 +30875,9 @@
     "house": {
         ",": 2,
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 22,
+        "_appearances": 23,
         "an": 1,
         "and": 3,
         "betrayeth": 1,
@@ -30528,7 +30895,8 @@
     "houses": {
         ",": 1,
         ".": 2,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "and": 1,
         "but": 1,
         "he": 1,
@@ -30623,7 +30991,8 @@
     "however": {
         "!": 1,
         ",": 298,
-        "_appearances": 645,
+        ":": 1,
+        "_appearances": 646,
         "a": 6,
         "after": 3,
         "all": 2,
@@ -30983,7 +31352,8 @@
     "hunger": {
         "!": 1,
         ".": 1,
-        "_appearances": 16,
+        ":": 1,
+        "_appearances": 17,
         "and": 2,
         "ariseth": 1,
         "attacketh": 2,
@@ -31134,8 +31504,9 @@
         "!": 3,
         ",": 30,
         ".": 8,
+        ":": 4,
         ";": 1,
-        "_appearances": 1741,
+        "_appearances": 1745,
         "a": 5,
         "abused": 1,
         "accredit": 1,
@@ -31653,7 +32024,8 @@
     "idol": {
         "!": 2,
         ".": 2,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "adoration": 1,
         "better": 1,
         "gladly": 1,
@@ -32467,7 +32839,8 @@
     "indulgently": {
         "!": 1,
         ",": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "here": 1,
         "how": 1,
         "i": 1,
@@ -32516,7 +32889,8 @@
         "with": 1
     },
     "infatuation": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "all": 1,
         "had": 1
     },
@@ -32848,7 +33222,8 @@
         "against": 1
     },
     "insurrection": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "it": 1
     },
     "integrated": {
@@ -32955,7 +33330,8 @@
         "it": 1
     },
     "interval": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "whether": 1
     },
     "interview": {
@@ -33135,7 +33511,8 @@
         "to": 1
     },
     "involuntarily": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "involuntary": {
@@ -33213,7 +33590,8 @@
         "!": 5,
         ",": 15,
         ".": 2,
-        "_appearances": 1475,
+        ":": 1,
+        "_appearances": 1476,
         "a": 79,
         "abandoned": 1,
         "able": 1,
@@ -33645,9 +34023,10 @@
         "!": 47,
         ",": 80,
         ".": 47,
+        ":": 15,
         ";": 11,
         "?": 13,
-        "_appearances": 1500,
+        "_appearances": 1515,
         "a": 8,
         "about": 1,
         "accidents": 1,
@@ -34246,9 +34625,10 @@
         "!": 4,
         ",": 21,
         ".": 14,
+        ":": 6,
         ";": 5,
         "?": 4,
-        "_appearances": 199,
+        "_appearances": 205,
         "a": 1,
         "again": 1,
         "aloft": 1,
@@ -34355,7 +34735,8 @@
         "gold": 1
     },
     "jailer": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "jangling": {
@@ -34396,7 +34777,8 @@
         "all": 1
     },
     "jestingly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "lo": 1
     },
     "jests": {
@@ -34405,7 +34787,8 @@
         "and": 1
     },
     "jesus": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "then": 1
     },
     "jew": {
@@ -34449,7 +34832,8 @@
         "o": 1
     },
     "jokingly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "doth": 1
     },
     "journey": {
@@ -34471,8 +34855,9 @@
     "joy": {
         ",": 4,
         ".": 2,
+        ":": 2,
         "?": 1,
-        "_appearances": 37,
+        "_appearances": 39,
         "although": 1,
         "and": 3,
         "bringer": 2,
@@ -34545,8 +34930,9 @@
     "judge": {
         "!": 1,
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "and": 3,
         "but": 1,
         "for": 1,
@@ -34593,16 +34979,18 @@
         "summer": 1
     },
     "jurisdiction": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "what": 1
     },
     "just": {
         "!": 5,
         ",": 5,
         ".": 1,
+        ":": 1,
         ";": 1,
         "?": 2,
-        "_appearances": 105,
+        "_appearances": 106,
         "a": 1,
         "acknowledge": 1,
         "am": 1,
@@ -34663,9 +35051,10 @@
         "!": 2,
         ",": 2,
         ".": 3,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 28,
+        "_appearances": 29,
         "alas": 1,
         "and": 4,
         "because": 1,
@@ -34809,7 +35198,8 @@
         "which": 1
     },
     "kindest": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "if": 1
     },
     "kindle": {
@@ -34858,7 +35248,8 @@
         "would": 1
     },
     "king": {
-        "_appearances": 15,
+        ":": 1,
+        "_appearances": 16,
         "may": 1,
         "on": 13,
         "what": 1
@@ -34938,7 +35329,8 @@
     },
     "knee": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "bending": 1,
         "such": 1,
@@ -35011,8 +35403,9 @@
     "know": {
         "!": 1,
         ",": 5,
+        ":": 3,
         ";": 1,
-        "_appearances": 121,
+        "_appearances": 124,
         "all": 2,
         "also": 5,
         "and": 3,
@@ -35079,8 +35472,9 @@
     },
     "knoweth": {
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 28,
+        "_appearances": 29,
         "a": 1,
         "any": 2,
         "as": 1,
@@ -35114,9 +35508,10 @@
         "!": 5,
         ",": 7,
         ".": 2,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 50,
+        "_appearances": 51,
         "a": 1,
         "all": 1,
         "and": 2,
@@ -35399,7 +35794,8 @@
     },
     "lanes": {
         ".": 2,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "but": 1,
         "impatiently": 1,
         "maketh": 1,
@@ -35424,14 +35820,16 @@
     },
     "languish": {
         "!": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "a": 1,
         "amongst": 1,
         "for": 1,
         "verily": 1
     },
     "languishing": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "but": 1,
         "one": 1
     },
@@ -35460,7 +35858,8 @@
         "but": 1
     },
     "lash": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "and": 1
     },
     "lassitude": {
@@ -35470,8 +35869,9 @@
     "last": {
         ",": 12,
         ".": 1,
+        ":": 2,
         "?": 1,
-        "_appearances": 144,
+        "_appearances": 146,
         "a": 2,
         "after": 1,
         "and": 1,
@@ -35619,7 +36019,8 @@
         "!": 4,
         ",": 7,
         ".": 3,
-        "_appearances": 55,
+        ":": 2,
+        "_appearances": 57,
         "also": 1,
         "and": 7,
         "at": 6,
@@ -35728,15 +36129,17 @@
         "with": 1
     },
     "laughingly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thou": 1
     },
     "laughter": {
         "!": 2,
         ",": 8,
         ".": 3,
+        ":": 2,
         ";": 2,
-        "_appearances": 53,
+        "_appearances": 55,
         "allure": 1,
         "along": 1,
         "also": 1,
@@ -35801,7 +36204,8 @@
         "thus": 1
     },
     "lawbreaker": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "he": 1
     },
     "laws": {
@@ -35848,7 +36252,8 @@
     },
     "lays": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "as": 1,
         "that": 1,
         "there": 1
@@ -35906,8 +36311,9 @@
         "!": 1,
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 12,
+        "_appearances": 13,
         "a": 1,
         "all": 1,
         "and": 1,
@@ -35939,7 +36345,8 @@
     "learn": {
         "!": 1,
         ",": 3,
-        "_appearances": 77,
+        ":": 1,
+        "_appearances": 78,
         "afresh": 1,
         "again": 1,
         "also": 1,
@@ -36005,7 +36412,8 @@
         "thou": 1
     },
     "learners": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "so": 1
     },
     "learneth": {
@@ -36101,8 +36509,9 @@
     "leech": {
         ",": 1,
         ".": 1,
+        ":": 1,
         "?": 2,
-        "_appearances": 13,
+        "_appearances": 14,
         "and": 1,
         "asked": 1,
         "at": 1,
@@ -36153,8 +36562,9 @@
         "!": 6,
         ",": 8,
         ".": 4,
+        ":": 1,
         "?": 1,
-        "_appearances": 45,
+        "_appearances": 46,
         "all": 1,
         "and": 2,
         "did": 1,
@@ -36202,7 +36612,8 @@
         "monster": 1
     },
     "less": {
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "alone": 1,
         "because": 1,
         "could": 1,
@@ -36290,7 +36701,8 @@
         "with": 1
     },
     "liars": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "that": 1
     },
@@ -36335,8 +36747,9 @@
         "!": 2,
         ",": 7,
         ".": 4,
+        ":": 2,
         "?": 1,
-        "_appearances": 65,
+        "_appearances": 67,
         "and": 2,
         "becometh": 1,
         "before": 2,
@@ -36421,9 +36834,10 @@
         "!": 16,
         ",": 25,
         ".": 14,
+        ":": 7,
         ";": 3,
         "?": 8,
-        "_appearances": 209,
+        "_appearances": 216,
         "ah": 1,
         "and": 18,
         "answer": 1,
@@ -36515,8 +36929,9 @@
         "!": 7,
         ",": 15,
         ".": 7,
+        ":": 1,
         ";": 1,
-        "_appearances": 105,
+        "_appearances": 106,
         "ah": 1,
         "also": 1,
         "am": 1,
@@ -36583,7 +36998,8 @@
         "heart": 1
     },
     "lighter": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "feet": 1,
         "for": 1,
         "of": 1
@@ -36606,8 +37022,9 @@
     "lightning": {
         "!": 2,
         ",": 6,
+        ":": 1,
         "?": 1,
-        "_appearances": 30,
+        "_appearances": 31,
         "and": 3,
         "bearing": 1,
         "blessed": 1,
@@ -36648,7 +37065,8 @@
     "like": {
         ",": 3,
         ".": 1,
-        "_appearances": 286,
+        ":": 2,
+        "_appearances": 288,
         "a": 63,
         "actors": 1,
         "all": 6,
@@ -36761,8 +37179,9 @@
     },
     "likewise": {
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "am": 1,
         "call": 1,
         "concerning": 1,
@@ -36773,7 +37192,8 @@
         "would": 1
     },
     "lilies": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "limbs": {
@@ -36810,8 +37230,9 @@
         "air": 2
     },
     "lineage": {
+        ":": 1,
         ";": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "if": 1,
         "out": 1
     },
@@ -36857,7 +37278,8 @@
         "wisdom": 1
     },
     "lionesses": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "praised": 1
     },
     "lions": {
@@ -36888,7 +37310,8 @@
         "to": 3
     },
     "listened": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 1,
         "in": 1,
         "then": 1,
@@ -36915,8 +37338,9 @@
     "little": {
         "!": 2,
         ",": 6,
+        ":": 1,
         ";": 1,
-        "_appearances": 101,
+        "_appearances": 102,
         "about": 1,
         "account": 1,
         "also": 1,
@@ -36998,9 +37422,10 @@
         "!": 2,
         ",": 7,
         ".": 4,
+        ":": 2,
         ";": 2,
         "?": 4,
-        "_appearances": 77,
+        "_appearances": 79,
         "above": 2,
         "ah": 1,
         "alas": 1,
@@ -37159,7 +37584,8 @@
         "he": 1
     },
     "loadstone": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "i": 1
     },
     "loathe": {
@@ -37205,7 +37631,8 @@
         "of": 1
     },
     "lodging": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "a": 1,
         "then": 1
     },
@@ -37264,7 +37691,8 @@
     },
     "lonesome": {
         ",": 4,
-        "_appearances": 27,
+        ":": 2,
+        "_appearances": 29,
         "a": 1,
         "and": 2,
         "for": 1,
@@ -37281,8 +37709,9 @@
         "!": 5,
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 26,
+        "_appearances": 27,
         "and": 1,
         "begun": 1,
         "behold": 1,
@@ -37317,9 +37746,10 @@
         "!": 4,
         ",": 15,
         ".": 5,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 183,
+        "_appearances": 184,
         "a": 1,
         "abroad": 1,
         "adown": 1,
@@ -37425,7 +37855,8 @@
         "young": 1
     },
     "longed": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 1,
         "for": 1,
         "oh": 1,
@@ -37434,8 +37865,9 @@
     "longer": {
         "!": 1,
         ",": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 78,
+        "_appearances": 80,
         "a": 3,
         "allow": 1,
         "an": 1,
@@ -37534,8 +37966,9 @@
         "!": 3,
         ",": 8,
         ".": 4,
+        ":": 3,
         "?": 1,
-        "_appearances": 69,
+        "_appearances": 72,
         "and": 2,
         "bestowing": 1,
         "beyond": 1,
@@ -37802,9 +38235,10 @@
         "!": 12,
         ",": 26,
         ".": 15,
+        ":": 18,
         ";": 1,
         "?": 5,
-        "_appearances": 336,
+        "_appearances": 354,
         "affair": 1,
         "all": 2,
         "alone": 1,
@@ -37915,7 +38349,8 @@
         "!": 3,
         ",": 4,
         ".": 2,
-        "_appearances": 33,
+        ":": 1,
+        "_appearances": 34,
         "and": 4,
         "at": 1,
         "because": 1,
@@ -37979,7 +38414,8 @@
         "thyself": 1
     },
     "loveth": {
-        "_appearances": 18,
+        ":": 1,
+        "_appearances": 19,
         "her": 1,
         "himself": 1,
         "his": 4,
@@ -38049,7 +38485,8 @@
         "walketh": 1
     },
     "lowlanders": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "there": 1
     },
     "lowliness": {
@@ -38104,7 +38541,8 @@
         "by": 1
     },
     "lurement": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thou": 1
     },
     "lures": {
@@ -38159,8 +38597,9 @@
         "motley": 1
     },
     "lustre": {
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "a": 1,
         "it": 1,
         "maketh": 1,
@@ -38305,8 +38744,9 @@
     "lying": {
         "!": 1,
         ",": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 17,
+        "_appearances": 18,
         "among": 1,
         "and": 3,
         "but": 1,
@@ -38441,8 +38881,9 @@
         "!": 1,
         ",": 12,
         ".": 1,
+        ":": 1,
         ";": 2,
-        "_appearances": 41,
+        "_appearances": 42,
         "and": 5,
         "calleth": 1,
         "crossed": 1,
@@ -38482,7 +38923,8 @@
         "!": 1,
         ",": 1,
         ".": 1,
-        "_appearances": 14,
+        ":": 1,
+        "_appearances": 15,
         "and": 1,
         "beside": 1,
         "danced": 1,
@@ -38680,7 +39122,8 @@
     },
     "maligners": {
         "!": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "for": 1,
         "he": 1,
@@ -38690,9 +39133,10 @@
         "!": 19,
         ",": 61,
         ".": 27,
+        ":": 9,
         ";": 2,
         "?": 10,
-        "_appearances": 437,
+        "_appearances": 446,
         "a": 8,
         "abroad": 1,
         "ah": 1,
@@ -38838,7 +39282,8 @@
     },
     "manifold": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "but": 1,
         "peculiar": 1
     },
@@ -39003,8 +39448,9 @@
         "!": 1,
         ",": 4,
         ".": 5,
+        ":": 1,
         "?": 1,
-        "_appearances": 43,
+        "_appearances": 44,
         "arranging": 1,
         "bending": 1,
         "break": 1,
@@ -39105,7 +39551,8 @@
         "!": 2,
         ",": 3,
         ".": 4,
-        "_appearances": 35,
+        ":": 4,
+        "_appearances": 39,
         "and": 3,
         "art": 1,
         "but": 1,
@@ -39147,7 +39594,8 @@
         "do": 1
     },
     "masts": {
-        "_appearances": 3,
+        ":": 2,
+        "_appearances": 5,
         "a": 1,
         "of": 1,
         "to": 1
@@ -39173,8 +39621,9 @@
     "matter": {
         "!": 1,
         ",": 2,
+        ":": 2,
         "?": 1,
-        "_appearances": 34,
+        "_appearances": 36,
         "about": 12,
         "always": 1,
         "but": 1,
@@ -39216,7 +39665,8 @@
         "and": 1
     },
     "maxims": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "for": 1,
         "of": 1
     },
@@ -39312,9 +39762,10 @@
         "!": 72,
         ",": 179,
         ".": 69,
+        ":": 51,
         ";": 29,
         "?": 36,
-        "_appearances": 1178,
+        "_appearances": 1229,
         "a": 22,
         "abashed": 1,
         "about": 1,
@@ -39609,7 +40060,8 @@
     "meaning": {
         "!": 2,
         ",": 2,
-        "_appearances": 19,
+        ":": 1,
+        "_appearances": 20,
         "a": 4,
         "and": 1,
         "is": 1,
@@ -39618,7 +40070,8 @@
         "to": 1
     },
     "means": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "of": 2,
         "penetrate": 1,
         "the": 1,
@@ -39728,7 +40181,8 @@
     "melancholy": {
         ",": 6,
         ".": 3,
-        "_appearances": 32,
+        ":": 3,
+        "_appearances": 35,
         "air": 1,
         "and": 3,
         "better": 1,
@@ -39792,8 +40246,9 @@
         "!": 19,
         ",": 61,
         ".": 18,
+        ":": 8,
         ";": 2,
-        "_appearances": 270,
+        "_appearances": 278,
         "a": 2,
         "all": 2,
         "among": 1,
@@ -39960,7 +40415,8 @@
         "three": 1
     },
     "metamorphosis": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "here": 1
     },
     "methinketh": {
@@ -39993,8 +40449,9 @@
         "!": 3,
         ",": 5,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 37,
+        "_appearances": 38,
         "and": 3,
         "bell": 1,
         "brighter": 1,
@@ -40218,8 +40675,9 @@
         "!": 1,
         ",": 1,
         ".": 2,
+        ":": 2,
         "?": 1,
-        "_appearances": 16,
+        "_appearances": 18,
         "after": 1,
         "and": 1,
         "but": 1,
@@ -40243,7 +40701,8 @@
         "of": 1
     },
     "misanthropic": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "all": 1
     },
     "miscarried": {
@@ -40307,7 +40766,8 @@
         "if": 1
     },
     "mishmash": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "misinferring": {
@@ -40383,7 +40843,8 @@
         "well": 1
     },
     "mixed": {
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "if": 1,
         "in": 2,
         "up": 2,
@@ -40448,7 +40909,8 @@
         "eye": 1
     },
     "mockingly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "happiness": 1
     },
     "mode": {
@@ -40481,7 +40943,8 @@
         "voice": 1
     },
     "modestly": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "after": 1,
         "far": 1,
         "to": 1
@@ -40490,7 +40953,8 @@
         "!": 1,
         ",": 1,
         ".": 2,
-        "_appearances": 15,
+        ":": 1,
+        "_appearances": 16,
         "and": 1,
         "doth": 1,
         "from": 1,
@@ -40581,7 +41045,8 @@
         "you": 1
     },
     "monition": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "my": 1
     },
     "monk": {
@@ -40596,8 +41061,9 @@
         "!": 3,
         ",": 1,
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 19,
+        "_appearances": 20,
         "across": 1,
         "and": 2,
         "badly": 1,
@@ -40701,8 +41167,9 @@
         "!": 8,
         ",": 13,
         ".": 9,
+        ":": 4,
         ";": 2,
-        "_appearances": 226,
+        "_appearances": 230,
         "a": 3,
         "alarming": 1,
         "always": 1,
@@ -40843,7 +41310,8 @@
     "morning": {
         ",": 8,
         ".": 3,
-        "_appearances": 36,
+        ":": 1,
+        "_appearances": 37,
         "and": 1,
         "at": 4,
         "but": 1,
@@ -40897,9 +41365,10 @@
     "most": {
         ",": 4,
         ".": 3,
+        ":": 1,
         ";": 2,
         "?": 4,
-        "_appearances": 111,
+        "_appearances": 112,
         "abysmal": 1,
         "agreeable": 1,
         "alike": 1,
@@ -41065,7 +41534,8 @@
     "mount": {
         ",": 3,
         ".": 2,
-        "_appearances": 18,
+        ":": 1,
+        "_appearances": 19,
         "and": 1,
         "do": 1,
         "even": 1,
@@ -41116,9 +41586,10 @@
         "!": 2,
         ",": 10,
         ".": 9,
+        ":": 3,
         ";": 3,
         "?": 4,
-        "_appearances": 78,
+        "_appearances": 81,
         "an": 1,
         "and": 12,
         "at": 1,
@@ -41182,7 +41653,8 @@
         "!": 1,
         ",": 7,
         ".": 10,
-        "_appearances": 59,
+        ":": 3,
+        "_appearances": 62,
         "a": 1,
         "agape": 1,
         "and": 4,
@@ -41221,7 +41693,8 @@
         "which": 1
     },
     "mouthlets": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "then": 1
     },
     "mouthpiece": {
@@ -41273,8 +41746,9 @@
         "!": 1,
         ",": 1,
         ".": 3,
+        ":": 1,
         "?": 3,
-        "_appearances": 139,
+        "_appearances": 140,
         "about": 3,
         "ado": 1,
         "appointable": 2,
@@ -41412,7 +41886,8 @@
         "thou": 1
     },
     "mumble": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thus": 1
     },
     "mumblers": {
@@ -41588,7 +42063,8 @@
     },
     "mutter": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "free": 1,
         "ye": 1
     },
@@ -41952,8 +42428,9 @@
     "myself": {
         ",": 18,
         ".": 12,
+        ":": 5,
         "?": 1,
-        "_appearances": 123,
+        "_appearances": 128,
         "allured": 1,
         "almost": 1,
         "also": 1,
@@ -42053,7 +42530,8 @@
     "naked": {
         ",": 4,
         ".": 1,
-        "_appearances": 21,
+        ":": 2,
+        "_appearances": 23,
         "and": 1,
         "arm": 3,
         "before": 1,
@@ -42162,8 +42640,9 @@
     "nature": {
         "!": 1,
         ".": 3,
+        ":": 2,
         ";": 1,
-        "_appearances": 20,
+        "_appearances": 22,
         "and": 2,
         "doth": 1,
         "ever": 1,
@@ -42323,7 +42802,8 @@
     },
     "necks": {
         ".": 1,
-        "_appearances": 6,
+        ":": 2,
+        "_appearances": 8,
         "is": 1,
         "of": 2,
         "those": 1,
@@ -42367,7 +42847,8 @@
         "warmth": 1
     },
     "needful": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "thou": 1,
         "to": 2
     },
@@ -42389,8 +42870,9 @@
         "!": 1,
         ",": 4,
         ".": 2,
+        ":": 2,
         "?": 1,
-        "_appearances": 40,
+        "_appearances": 42,
         "and": 3,
         "as": 2,
         "because": 1,
@@ -42491,7 +42973,8 @@
     },
     "never": {
         "!": 1,
-        "_appearances": 52,
+        ":": 1,
+        "_appearances": 53,
         "allayed": 1,
         "at": 1,
         "be": 2,
@@ -42542,7 +43025,8 @@
     },
     "new": {
         ",": 3,
-        "_appearances": 117,
+        ":": 1,
+        "_appearances": 118,
         "and": 2,
         "authority": 1,
         "beautiful": 1,
@@ -42698,9 +43182,10 @@
         "!": 5,
         ",": 13,
         ".": 5,
+        ":": 7,
         ";": 2,
         "?": 1,
-        "_appearances": 96,
+        "_appearances": 103,
         "a": 1,
         "ah": 1,
         "alas": 1,
@@ -42748,7 +43233,8 @@
     },
     "nightly": {
         "!": 2,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 1,
         "how": 1,
         "is": 1,
@@ -42904,7 +43390,8 @@
         "!": 1,
         ",": 1,
         ".": 1,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "but": 1,
         "gaze": 1,
         "in": 1,
@@ -43033,8 +43520,9 @@
         "!": 7,
         ",": 6,
         ".": 3,
+        ":": 2,
         "?": 1,
-        "_appearances": 44,
+        "_appearances": 46,
         "a": 1,
         "abyss": 1,
         "and": 4,
@@ -43126,9 +43614,10 @@
         "!": 2,
         ",": 25,
         ".": 10,
+        ":": 5,
         ";": 2,
         "?": 2,
-        "_appearances": 896,
+        "_appearances": 901,
         "a": 28,
         "adorn": 1,
         "adulterated": 1,
@@ -43716,7 +44205,8 @@
     },
     "nowhere": {
         ",": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "a": 1,
         "o": 1,
         "on": 1,
@@ -43847,14 +44337,16 @@
         "ready": 1
     },
     "obediently": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "if": 1
     },
     "obey": {
         ",": 3,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 13,
+        "_appearances": 14,
         "and": 2,
         "both": 1,
         "created": 1,
@@ -43870,7 +44362,8 @@
     },
     "obeyeth": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "doth": 1,
         "he": 1,
         "with": 1
@@ -43934,7 +44427,8 @@
         "continued": 1
     },
     "obstinacy": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "and": 1,
         "thou": 1
     },
@@ -44012,9 +44506,10 @@
     "of": {
         ",": 1,
         ".": 1,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 1903,
+        "_appearances": 1905,
         "a": 55,
         "affliction": 3,
         "air": 3,
@@ -44455,7 +44950,8 @@
     },
     "often": {
         ",": 1,
-        "_appearances": 29,
+        ":": 1,
+        "_appearances": 30,
         "also": 1,
         "an": 1,
         "behaved": 1,
@@ -44660,8 +45156,9 @@
         "!": 2,
         ",": 8,
         ".": 2,
+        ":": 3,
         ";": 1,
-        "_appearances": 460,
+        "_appearances": 463,
         "a": 22,
         "account": 12,
         "all": 3,
@@ -44845,9 +45342,10 @@
         "!": 33,
         ",": 76,
         ".": 25,
+        ":": 18,
         ";": 15,
         "?": 6,
-        "_appearances": 830,
+        "_appearances": 848,
         "a": 6,
         "after": 2,
         "again": 2,
@@ -45116,9 +45614,10 @@
         "!": 48,
         ",": 58,
         ".": 19,
+        ":": 17,
         ";": 12,
         "?": 3,
-        "_appearances": 355,
+        "_appearances": 372,
         "about": 1,
         "admirably": 1,
         "affect": 1,
@@ -45233,7 +45732,8 @@
         "!": 2,
         ",": 5,
         ".": 1,
-        "_appearances": 195,
+        ":": 1,
+        "_appearances": 196,
         "a": 10,
         "after": 1,
         "an": 1,
@@ -45337,8 +45837,9 @@
     "open": {
         ",": 1,
         ".": 1,
+        ":": 3,
         ";": 1,
-        "_appearances": 38,
+        "_appearances": 41,
         "air": 5,
         "all": 1,
         "and": 2,
@@ -45364,7 +45865,8 @@
     },
     "opened": {
         ",": 1,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "and": 1,
         "ears": 1,
         "his": 2,
@@ -45394,8 +45896,9 @@
     },
     "opinions": {
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "and": 1,
         "at": 1,
         "should": 1
@@ -45606,8 +46109,9 @@
         "!": 1,
         ",": 10,
         ".": 6,
+        ":": 3,
         ";": 2,
-        "_appearances": 91,
+        "_appearances": 94,
         "ages": 1,
         "and": 3,
         "are": 1,
@@ -45669,7 +46173,8 @@
     "others": {
         ",": 5,
         ".": 3,
-        "_appearances": 36,
+        ":": 1,
+        "_appearances": 37,
         "a": 1,
         "also": 1,
         "and": 4,
@@ -45694,9 +46199,10 @@
         "!": 3,
         ",": 3,
         ".": 3,
+        ":": 1,
         ";": 2,
         "?": 2,
-        "_appearances": 43,
+        "_appearances": 44,
         "about": 1,
         "and": 2,
         "for": 1,
@@ -45811,7 +46317,8 @@
         "!": 2,
         ",": 11,
         ".": 1,
-        "_appearances": 237,
+        ":": 9,
+        "_appearances": 246,
         "a": 3,
         "again": 1,
         "air": 1,
@@ -45932,7 +46439,8 @@
         "!": 1,
         ",": 5,
         ".": 3,
-        "_appearances": 140,
+        ":": 1,
+        "_appearances": 141,
         "a": 3,
         "abundance": 1,
         "against": 1,
@@ -46252,7 +46760,8 @@
         "world": 1
     },
     "ox": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "but": 1,
         "ought": 1,
         "skins": 1,
@@ -46393,7 +46902,8 @@
     },
     "panes": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "everything": 1,
         "so": 1
     },
@@ -46426,8 +46936,9 @@
     "parable": {
         ",": 2,
         ".": 3,
+        ":": 1,
         "?": 1,
-        "_appearances": 18,
+        "_appearances": 19,
         "and": 2,
         "as": 1,
         "give": 1,
@@ -46473,7 +46984,8 @@
         "dripping": 1
     },
     "parasite": {
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "ascend": 1,
         "is": 1,
         "it": 1,
@@ -46621,7 +47133,8 @@
     "passions": {
         ",": 1,
         ".": 2,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "and": 1,
         "in": 1,
         "my": 1,
@@ -46632,7 +47145,8 @@
     "past": {
         ",": 5,
         ".": 3,
-        "_appearances": 34,
+        ":": 1,
+        "_appearances": 35,
         "abandoned": 1,
         "and": 5,
         "be": 1,
@@ -46673,8 +47187,9 @@
     "path": {
         ",": 8,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 38,
+        "_appearances": 39,
         "again": 1,
         "an": 1,
         "and": 4,
@@ -46870,7 +47385,8 @@
         "wishes": 1
     },
     "peck": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "peculiar": {
@@ -46967,8 +47483,9 @@
         "!": 4,
         ",": 17,
         ".": 8,
+        ":": 11,
         ";": 1,
-        "_appearances": 154,
+        "_appearances": 165,
         "and": 15,
         "are": 2,
         "arise": 1,
@@ -47047,8 +47564,9 @@
         "!": 1,
         ",": 2,
         ".": 3,
+        ":": 2,
         ";": 1,
-        "_appearances": 26,
+        "_appearances": 28,
         "a": 1,
         "and": 4,
         "for": 1,
@@ -47127,7 +47645,8 @@
     },
     "performance": {
         ".": 3,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 2,
         "he": 1,
         "zarathustra": 1
@@ -47234,7 +47753,8 @@
     },
     "perishing": {
         "!": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "it": 1,
         "of": 2,
         "the": 1,
@@ -47262,7 +47782,8 @@
         "repose": 1
     },
     "pernicious": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "spit": 1
     },
     "perplexity": {
@@ -47365,7 +47886,8 @@
         "permission": 1
     },
     "pestles": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "throw": 1
     },
     "pettily": {
@@ -47413,8 +47935,9 @@
     },
     "phantoms": {
         ".": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 9,
+        "_appearances": 11,
         "ah": 1,
         "both": 1,
         "or": 1,
@@ -47438,8 +47961,9 @@
     "physician": {
         ",": 1,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "and": 1,
         "heal": 1,
         "or": 1,
@@ -47513,7 +48037,8 @@
     },
     "piety": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "itself": 1,
         "put": 1,
@@ -47565,7 +48090,8 @@
     "pinions": {
         ",": 3,
         ".": 1,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "all": 1,
         "and": 2,
         "divinable": 1,
@@ -47577,7 +48103,8 @@
         "!": 1,
         ",": 3,
         ".": 1,
-        "_appearances": 23,
+        ":": 1,
+        "_appearances": 24,
         "again": 1,
         "and": 1,
         "backworldsmen": 1,
@@ -47675,8 +48202,9 @@
         "!": 6,
         ",": 8,
         ".": 5,
+        ":": 6,
         "?": 1,
-        "_appearances": 68,
+        "_appearances": 74,
         "all": 1,
         "and": 1,
         "answered": 1,
@@ -47718,9 +48246,10 @@
         "!": 3,
         ",": 3,
         ".": 4,
+        ":": 1,
         ";": 3,
         "?": 2,
-        "_appearances": 62,
+        "_appearances": 63,
         "advanced": 1,
         "all": 2,
         "among": 1,
@@ -47795,7 +48324,8 @@
     "plains": {
         ",": 2,
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 3,
         "oh": 1
     },
@@ -47815,7 +48345,8 @@
         "when": 1
     },
     "plant": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 1,
         "eater": 1,
         "for": 1,
@@ -47872,7 +48403,8 @@
     "players": {
         "!": 2,
         ",": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "but": 1,
         "o": 1,
         "until": 1,
@@ -47925,18 +48457,21 @@
         "into": 1
     },
     "plead": {
-        "_appearances": 3,
+        ":": 2,
+        "_appearances": 5,
         "five": 1,
         "for": 1,
         "the": 1
     },
     "pleadeth": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "who": 1
     },
     "pleasant": {
         ".": 2,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "death": 1,
         "dreams": 1,
         "for": 1,
@@ -48121,7 +48656,8 @@
         "!": 1,
         ",": 3,
         ".": 5,
-        "_appearances": 31,
+        ":": 1,
+        "_appearances": 32,
         "a": 1,
         "always": 1,
         "and": 3,
@@ -48216,7 +48752,8 @@
     "policy": {
         ",": 1,
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 1,
         "for": 1,
         "the": 1,
@@ -48254,14 +48791,16 @@
     },
     "pools": {
         ",": 2,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "for": 1,
         "wherein": 1,
         "with": 1
     },
     "poor": {
         ",": 3,
-        "_appearances": 31,
+        ":": 1,
+        "_appearances": 32,
         "and": 6,
         "are": 1,
         "bed": 1,
@@ -48331,8 +48870,9 @@
     "populace": {
         ",": 6,
         ".": 6,
+        ":": 1,
         "?": 1,
-        "_appearances": 51,
+        "_appearances": 52,
         "above": 1,
         "also": 1,
         "and": 3,
@@ -48368,7 +48908,8 @@
         "wisheth": 1
     },
     "portals": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "the": 1
     },
     "portent": {
@@ -48388,7 +48929,8 @@
     },
     "possessed": {
         ",": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "blessed": 1,
         "him": 1,
         "me": 1,
@@ -48397,7 +48939,8 @@
         "you": 1
     },
     "possessedness": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "on": 1
     },
     "possesseth": {
@@ -48421,9 +48964,10 @@
     },
     "possible": {
         "!": 4,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 14,
+        "_appearances": 15,
         "and": 1,
         "but": 1,
         "learn": 1,
@@ -48493,8 +49037,9 @@
         "!": 6,
         ",": 8,
         ".": 7,
+        ":": 8,
         ";": 2,
-        "_appearances": 77,
+        "_appearances": 85,
         "a": 1,
         "and": 8,
         "as": 1,
@@ -48572,8 +49117,9 @@
     "praise": {
         "!": 1,
         ".": 1,
+        ":": 2,
         "?": 1,
-        "_appearances": 30,
+        "_appearances": 32,
         "a": 1,
         "and": 4,
         "for": 1,
@@ -48636,7 +49182,8 @@
     "pray": {
         "!": 3,
         ",": 4,
-        "_appearances": 30,
+        ":": 1,
+        "_appearances": 31,
         "and": 2,
         "ever": 1,
         "how": 1,
@@ -48686,7 +49233,8 @@
     "preached": {
         ",": 1,
         ".": 3,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "and": 1,
         "everything": 1,
         "full": 1,
@@ -48719,8 +49267,9 @@
         "of": 1
     },
     "precaution": {
+        ":": 1,
         ";": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "and": 1,
         "so": 1
     },
@@ -48734,7 +49283,8 @@
     },
     "precept": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "die": 1,
         "however": 1
     },
@@ -48762,7 +49312,8 @@
         "to": 1
     },
     "precipice": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "look": 1,
         "oh": 1
     },
@@ -48805,8 +49356,9 @@
     },
     "pregnancy": {
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "and": 1,
         "man": 1,
         "so": 1
@@ -48862,7 +49414,8 @@
         "that": 2
     },
     "presaged": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "all": 1
     },
     "presaging": {
@@ -48879,8 +49432,9 @@
         "!": 4,
         ",": 7,
         ".": 2,
+        ":": 1,
         "?": 2,
-        "_appearances": 68,
+        "_appearances": 69,
         "and": 2,
         "asked": 1,
         "but": 2,
@@ -49005,7 +49559,8 @@
     "prey": {
         ",": 6,
         ".": 3,
-        "_appearances": 22,
+        ":": 1,
+        "_appearances": 23,
         "all": 1,
         "and": 1,
         "are": 1,
@@ -49048,8 +49603,9 @@
     "pride": {
         "!": 3,
         ".": 5,
+        ":": 1,
         "?": 3,
-        "_appearances": 36,
+        "_appearances": 37,
         "all": 1,
         "and": 1,
         "but": 1,
@@ -49084,7 +49640,8 @@
         "!": 2,
         ",": 1,
         ".": 2,
-        "_appearances": 13,
+        ":": 2,
+        "_appearances": 15,
         "and": 1,
         "but": 1,
         "have": 1,
@@ -49103,7 +49660,8 @@
         "history": 1
     },
     "prince": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "around": 1,
         "of": 1,
         "proposeth": 1,
@@ -49115,8 +49673,9 @@
     },
     "prison": {
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "ah": 1,
         "and": 1,
         "but": 1,
@@ -49320,7 +49879,8 @@
         "or": 1
     },
     "promiseth": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "for": 1,
         "us": 1
     },
@@ -49330,7 +49890,8 @@
     },
     "promontory": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 1,
         "as": 1,
         "beyond": 1
@@ -49383,7 +49944,8 @@
         "then": 1
     },
     "property": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thereby": 1
     },
     "prophet": {
@@ -49470,7 +50032,8 @@
         "of": 2
     },
     "proverbs": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "do": 1,
         "doth": 1,
         "should": 1
@@ -49507,7 +50070,8 @@
     "prudence": {
         ",": 1,
         ".": 3,
-        "_appearances": 13,
+        ":": 2,
+        "_appearances": 15,
         "gnarled": 1,
         "i": 2,
         "is": 1,
@@ -49548,7 +50112,8 @@
         "the": 1
     },
     "pulled": {
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "at": 2,
         "his": 1,
         "in": 1,
@@ -49656,7 +50221,8 @@
     },
     "purity": {
         ".": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "divine": 1,
         "on": 1,
         "to": 1,
@@ -49847,7 +50413,8 @@
     },
     "question": {
         ",": 2,
-        "_appearances": 12,
+        ":": 2,
+        "_appearances": 14,
         "and": 1,
         "each": 1,
         "for": 1,
@@ -49900,7 +50467,8 @@
         "!": 1,
         ",": 6,
         ".": 1,
-        "_appearances": 23,
+        ":": 1,
+        "_appearances": 24,
         "and": 2,
         "away": 1,
         "doth": 1,
@@ -49970,8 +50538,9 @@
         "!": 3,
         ",": 5,
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 31,
+        "_appearances": 32,
         "ah": 1,
         "also": 2,
         "amongst": 1,
@@ -50044,7 +50613,8 @@
         "the": 1
     },
     "rail": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "all": 1,
         "at": 1
     },
@@ -50071,7 +50641,8 @@
     },
     "rain": {
         ".": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 1,
         "cloud": 1,
         "drops": 1,
@@ -50158,7 +50729,8 @@
         "after": 1
     },
     "rapture": {
-        "_appearances": 4,
+        ":": 2,
+        "_appearances": 6,
         "if": 1,
         "of": 1,
         "out": 1,
@@ -50354,7 +50926,8 @@
     },
     "reality": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "everything": 1,
         "for": 1
     },
@@ -50368,7 +50941,8 @@
     },
     "reapers": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 3,
         "for": 1
     },
@@ -50384,7 +50958,8 @@
         "!": 1,
         ",": 3,
         ".": 1,
-        "_appearances": 27,
+        ":": 1,
+        "_appearances": 28,
         "all": 1,
         "and": 1,
         "beyond": 1,
@@ -50506,7 +51081,8 @@
     },
     "recognised": {
         "!": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 2,
         "with": 1,
         "zarathustra": 1
@@ -50565,7 +51141,8 @@
         "otherwise": 1
     },
     "reconcilers": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "but": 1
     },
     "reconciliation": {
@@ -51028,7 +51605,8 @@
         "laughing": 1
     },
     "renounce": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "all": 1,
         "the": 2,
         "then": 1
@@ -51060,8 +51638,9 @@
     },
     "repasts": {
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "now": 1,
         "yet": 1,
         "your": 1
@@ -51100,8 +51679,9 @@
     "repose": {
         ",": 1,
         ".": 1,
+        ":": 1,
         ";": 2,
-        "_appearances": 9,
+        "_appearances": 10,
         "and": 1,
         "but": 1,
         "nigh": 1,
@@ -51144,7 +51724,8 @@
     "reptile": {
         "!": 1,
         ",": 2,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "a": 1,
         "but": 1,
         "that": 1,
@@ -51222,7 +51803,8 @@
     "resemble": {
         ",": 1,
         ".": 1,
-        "_appearances": 8,
+        ":": 2,
+        "_appearances": 10,
         "again": 1,
         "but": 1,
         "he": 1,
@@ -51324,7 +51906,8 @@
     "rest": {
         ",": 3,
         ".": 1,
-        "_appearances": 19,
+        ":": 2,
+        "_appearances": 21,
         "and": 2,
         "bad": 1,
         "however": 1,
@@ -51464,7 +52047,8 @@
         "the": 1
     },
     "returning": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "for": 1,
         "from": 1,
         "one": 1
@@ -51492,9 +52076,10 @@
         "!": 1,
         ",": 3,
         ".": 1,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 30,
+        "_appearances": 31,
         "and": 3,
         "at": 1,
         "because": 1,
@@ -51519,8 +52104,9 @@
     },
     "revengeful": {
         ",": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 7,
+        "_appearances": 8,
         "and": 2,
         "ones": 1,
         "than": 1,
@@ -51534,7 +52120,8 @@
     "reverence": {
         ",": 1,
         ".": 1,
-        "_appearances": 13,
+        ":": 2,
+        "_appearances": 15,
         "and": 1,
         "dwelleth": 1,
         "for": 4,
@@ -51745,7 +52332,8 @@
         "!": 1,
         ",": 9,
         ".": 1,
-        "_appearances": 60,
+        ":": 2,
+        "_appearances": 62,
         "about": 2,
         "and": 6,
         "arm": 1,
@@ -52008,8 +52596,9 @@
     },
     "rocks": {
         "!": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "also": 1,
         "and": 2,
         "asunder": 1,
@@ -52017,7 +52606,8 @@
         "downward": 1
     },
     "rod": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "am": 1,
         "and": 1
     },
@@ -52258,7 +52848,8 @@
     },
     "roving": {
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "about": 2,
         "howl": 1,
         "or": 1,
@@ -52357,7 +52948,8 @@
         "and": 1
     },
     "ruling": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "thought": 2,
         "to": 1,
         "will": 1
@@ -52724,8 +53316,9 @@
     },
     "sadly": {
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 7,
+        "_appearances": 8,
         "my": 1,
         "o": 1,
         "thy": 1,
@@ -52762,7 +53355,8 @@
         "my": 1
     },
     "sage": {
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "is": 1,
         "it": 2,
         "on": 1,
@@ -52781,8 +53375,9 @@
     "said": {
         "!": 1,
         ",": 2,
+        ":": 19,
         ";": 1,
-        "_appearances": 193,
+        "_appearances": 212,
         "again": 1,
         "ah": 1,
         "at": 2,
@@ -52846,7 +53441,8 @@
         "o": 1
     },
     "saidst": {
-        "_appearances": 4,
+        ":": 2,
+        "_appearances": 6,
         "i": 1,
         "nay": 1,
         "the": 1,
@@ -52918,7 +53514,8 @@
     },
     "saith": {
         ",": 1,
-        "_appearances": 50,
+        ":": 20,
+        "_appearances": 70,
         "a": 1,
         "all": 2,
         "bad": 1,
@@ -52984,8 +53581,9 @@
         "from": 1
     },
     "same": {
+        ":": 1,
         ";": 1,
-        "_appearances": 31,
+        "_appearances": 32,
         "conscience": 1,
         "day": 1,
         "did": 1,
@@ -53133,7 +53731,8 @@
     "saviour": {
         "!": 1,
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "greater": 1,
         "more": 1,
         "on": 1,
@@ -53194,8 +53793,9 @@
     "say": {
         "!": 1,
         ",": 21,
+        ":": 26,
         "?": 1,
-        "_appearances": 139,
+        "_appearances": 165,
         "about": 1,
         "against": 1,
         "all": 1,
@@ -53254,14 +53854,16 @@
     },
     "sayer": {
         ",": 2,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 2,
         "if": 1
     },
     "sayest": {
         ",": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 14,
+        "_appearances": 16,
         "blameless": 1,
         "from": 1,
         "i": 2,
@@ -53271,7 +53873,8 @@
     "saying": {
         ",": 1,
         ".": 2,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "a": 1,
         "flatteringly": 1,
         "mine": 1,
@@ -53284,7 +53887,8 @@
     "sayings": {
         ",": 1,
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 2,
         "did": 1,
         "he": 1,
@@ -53376,7 +53980,8 @@
     },
     "scholar": {
         ".": 2,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "am": 1,
         "and": 1,
         "it": 1,
@@ -53527,9 +54132,10 @@
         "!": 4,
         ",": 13,
         ".": 7,
+        ":": 5,
         ";": 5,
         "?": 1,
-        "_appearances": 95,
+        "_appearances": 100,
         "a": 2,
         "ah": 1,
         "all": 1,
@@ -53682,7 +54288,8 @@
         "time": 3
     },
     "secondly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "whatever": 1
     },
     "secrecy": {
@@ -53749,8 +54356,9 @@
     "security": {
         "!": 1,
         ".": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 9,
+        "_appearances": 11,
         "and": 1,
         "beware": 1,
         "have": 1,
@@ -53864,9 +54472,10 @@
     "seek": {
         ",": 3,
         ".": 1,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 55,
+        "_appearances": 56,
         "a": 3,
         "after": 1,
         "and": 4,
@@ -53912,8 +54521,9 @@
     },
     "seeketh": {
         ",": 3,
+        ":": 2,
         ";": 2,
-        "_appearances": 41,
+        "_appearances": 43,
         "and": 4,
         "by": 1,
         "fellow": 1,
@@ -53938,7 +54548,8 @@
     "seeking": {
         "!": 1,
         ",": 1,
-        "_appearances": 18,
+        ":": 2,
+        "_appearances": 20,
         "and": 2,
         "for": 1,
         "hath": 1,
@@ -54126,7 +54737,8 @@
         "!": 3,
         ",": 2,
         ".": 3,
-        "_appearances": 21,
+        ":": 1,
+        "_appearances": 22,
         "and": 2,
         "another": 1,
         "bad": 1,
@@ -54172,7 +54784,8 @@
     "sense": {
         ",": 3,
         ".": 2,
-        "_appearances": 20,
+        ":": 1,
+        "_appearances": 21,
         "a": 1,
         "and": 3,
         "feeleth": 1,
@@ -54285,8 +54898,9 @@
         "!": 2,
         ",": 5,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 37,
+        "_appearances": 38,
         "and": 5,
         "but": 2,
         "came": 1,
@@ -54317,7 +54931,8 @@
     "servant": {
         "!": 1,
         ",": 3,
-        "_appearances": 11,
+        ":": 2,
+        "_appearances": 13,
         "ah": 1,
         "found": 1,
         "he": 1,
@@ -54465,8 +55080,9 @@
         "of": 1
     },
     "shade": {
+        ":": 1,
         ";": 1,
-        "_appearances": 5,
+        "_appearances": 6,
         "the": 1,
         "they": 2,
         "wisdom": 1
@@ -54479,9 +55095,10 @@
         "!": 3,
         ",": 10,
         ".": 5,
+        ":": 1,
         ";": 1,
         "?": 3,
-        "_appearances": 56,
+        "_appearances": 57,
         "abide": 1,
         "after": 1,
         "ah": 1,
@@ -54510,7 +55127,8 @@
         "and": 2
     },
     "shadowwards": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "by": 1
     },
     "shady": {
@@ -54699,7 +55317,8 @@
         "like": 1
     },
     "share": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "of": 1,
         "with": 1
@@ -54842,7 +55461,8 @@
     "shepherd": {
         ",": 2,
         ".": 1,
-        "_appearances": 13,
+        ":": 1,
+        "_appearances": 14,
         "an": 1,
         "and": 1,
         "did": 1,
@@ -54856,7 +55476,8 @@
     },
     "shepherds": {
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "also": 1,
         "at": 1,
         "but": 1,
@@ -54927,7 +55548,8 @@
         "with": 1
     },
     "shocketh": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "so": 1
     },
     "shoe": {
@@ -54985,7 +55607,8 @@
     "shore": {
         ",": 1,
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "hath": 1,
         "i": 1,
         "then": 1,
@@ -55100,7 +55723,8 @@
         "thou": 3
     },
     "shout": {
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "it": 1,
         "this": 1,
         "to": 1,
@@ -55274,7 +55898,8 @@
     },
     "sickles": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "destroyers": 1,
         "so": 1
     },
@@ -55305,7 +55930,8 @@
         "then": 1
     },
     "side": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "leaps": 2
     },
@@ -55328,7 +55954,8 @@
     },
     "sighed": {
         ",": 3,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "and": 5,
         "i": 1,
         "o": 1,
@@ -55337,7 +55964,8 @@
     },
     "sigheth": {
         "!": 3,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "all": 1,
         "his": 1,
         "how": 3
@@ -55368,7 +55996,8 @@
     "sign": {
         "!": 1,
         ".": 2,
-        "_appearances": 16,
+        ":": 1,
+        "_appearances": 17,
         "ah": 1,
         "beside": 1,
         "cometh": 1,
@@ -55397,7 +56026,8 @@
     "signs": {
         "!": 2,
         ",": 1,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "but": 1,
         "come": 1,
         "it": 1,
@@ -55410,8 +56040,9 @@
         "!": 2,
         ",": 5,
         ".": 6,
+        ":": 1,
         "?": 1,
-        "_appearances": 38,
+        "_appearances": 39,
         "all": 1,
         "and": 3,
         "between": 1,
@@ -55441,8 +56072,9 @@
         "!": 1,
         ",": 6,
         ".": 11,
+        ":": 2,
         ";": 3,
-        "_appearances": 68,
+        "_appearances": 70,
         "a": 1,
         "about": 2,
         "and": 11,
@@ -55526,7 +56158,8 @@
     },
     "similes": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "are": 1,
         "of": 1,
         "speak": 1,
@@ -55540,7 +56173,8 @@
     },
     "simpletons": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "all": 2,
         "contradict": 1,
         "then": 1
@@ -55596,7 +56230,8 @@
         "ye": 1
     },
     "sinful": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "sound": 1,
         "they": 1
     },
@@ -55638,7 +56273,8 @@
         "are": 1
     },
     "singeth": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "his": 1,
         "the": 1
     },
@@ -55819,8 +56455,9 @@
     "skin": {
         ",": 3,
         ".": 4,
+        ":": 2,
         ";": 1,
-        "_appearances": 29,
+        "_appearances": 31,
         "and": 5,
         "caps": 1,
         "covered": 1,
@@ -55903,7 +56540,8 @@
     },
     "slavery": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "because": 1,
         "o": 1
     },
@@ -55933,7 +56571,8 @@
     },
     "slayer": {
         ",": 2,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "courage": 3
     },
     "slayers": {
@@ -55960,9 +56599,10 @@
         "!": 2,
         ",": 3,
         ".": 13,
+        ":": 2,
         ";": 1,
         "?": 3,
-        "_appearances": 73,
+        "_appearances": 75,
         "a": 2,
         "and": 4,
         "at": 1,
@@ -56089,7 +56729,8 @@
         "into": 1
     },
     "slip": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "by": 1,
         "from": 1,
         "past": 1,
@@ -56111,7 +56752,8 @@
         "learneth": 1
     },
     "slothfulness": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "although": 1,
         "framed": 1,
         "of": 1
@@ -56133,7 +56775,8 @@
     },
     "slowly": {
         ",": 2,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "and": 3,
         "but": 1,
         "even": 1,
@@ -56254,7 +56897,8 @@
         "!": 1,
         ",": 3,
         ".": 1,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "and": 2,
         "doth": 1,
         "everywhere": 1,
@@ -56436,7 +57080,8 @@
         "pleasure": 1
     },
     "sneeringly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "so": 1
     },
     "sneeze": {
@@ -56501,7 +57146,8 @@
     "snow": {
         ",": 1,
         ".": 1,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "bearded": 2,
         "in": 1,
         "neighbours": 1,
@@ -56532,9 +57178,10 @@
         "!": 4,
         ",": 7,
         ".": 9,
+        ":": 2,
         ";": 2,
         "?": 2,
-        "_appearances": 340,
+        "_appearances": 342,
         "against": 1,
         "ah": 1,
         "alarmed": 1,
@@ -56694,7 +57341,8 @@
     },
     "society": {
         ".": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "at": 1,
         "better": 1,
         "it": 1,
@@ -56725,7 +57373,8 @@
     },
     "softly": {
         "!": 1,
-        "_appearances": 5,
+        ":": 2,
+        "_appearances": 7,
         "and": 1,
         "for": 1,
         "o": 1,
@@ -56777,7 +57426,8 @@
         "trueness": 1
     },
     "solemn": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "and": 1,
         "assistants": 1,
         "exhortation": 1,
@@ -56822,7 +57472,8 @@
         "!": 2,
         ",": 4,
         ".": 1,
-        "_appearances": 29,
+        ":": 3,
+        "_appearances": 32,
         "a": 1,
         "and": 6,
         "but": 1,
@@ -56904,8 +57555,9 @@
     },
     "something": {
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 59,
+        "_appearances": 60,
         "better": 2,
         "between": 1,
         "beyond": 1,
@@ -57048,7 +57700,8 @@
         "sayer": 1
     },
     "soothedly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "it": 1
     },
     "soothing": {
@@ -57062,9 +57715,10 @@
     "soothsayer": {
         ",": 10,
         ".": 5,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 48,
+        "_appearances": 50,
         "and": 3,
         "beside": 1,
         "doth": 1,
@@ -57147,7 +57801,8 @@
     },
     "sorrow": {
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 1,
         "be": 1,
         "into": 1,
@@ -57165,7 +57820,8 @@
     },
     "sorrowfully": {
         ".": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "did": 1,
         "on": 1,
@@ -57206,8 +57862,9 @@
         "!": 14,
         ",": 39,
         ".": 18,
+        ":": 7,
         "?": 8,
-        "_appearances": 232,
+        "_appearances": 239,
         "a": 3,
         "also": 5,
         "and": 9,
@@ -57300,8 +57957,9 @@
     "souls": {
         ",": 6,
         ".": 9,
+        ":": 2,
         ";": 3,
-        "_appearances": 57,
+        "_appearances": 59,
         "a": 1,
         "ah": 1,
         "and": 3,
@@ -57408,7 +58066,8 @@
     },
     "space": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 2,
         "he": 1,
         "to": 1
@@ -57419,7 +58078,8 @@
     },
     "spake": {
         ",": 4,
-        "_appearances": 171,
+        ":": 1,
+        "_appearances": 172,
         "a": 1,
         "against": 1,
         "and": 2,
@@ -57447,7 +58107,8 @@
         "zarathustra": 79
     },
     "spakest": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "let": 1,
         "like": 1,
         "thou": 1,
@@ -57515,9 +58176,10 @@
         "!": 5,
         ",": 10,
         ".": 4,
+        ":": 4,
         ";": 1,
         "?": 1,
-        "_appearances": 131,
+        "_appearances": 135,
         "a": 2,
         "again": 2,
         "all": 1,
@@ -57578,7 +58240,8 @@
         "then": 1
     },
     "speakest": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "not": 1,
         "only": 1,
         "the": 2,
@@ -57677,7 +58340,8 @@
     "speech": {
         ",": 1,
         ".": 3,
-        "_appearances": 15,
+        ":": 1,
+        "_appearances": 16,
         "and": 3,
         "at": 1,
         "but": 1,
@@ -57701,7 +58365,8 @@
         "and": 1
     },
     "speweth": {
-        "_appearances": 2,
+        ":": 2,
+        "_appearances": 4,
         "take": 1,
         "that": 1
     },
@@ -57774,9 +58439,10 @@
         "!": 4,
         ",": 22,
         ".": 12,
+        ":": 6,
         ";": 7,
         "?": 5,
-        "_appearances": 216,
+        "_appearances": 222,
         "a": 3,
         "against": 1,
         "and": 18,
@@ -58065,7 +58731,8 @@
     "spring": {
         "!": 1,
         ",": 2,
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "and": 1,
         "hath": 1,
         "into": 1,
@@ -58238,7 +58905,8 @@
     },
     "stammer": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "about": 1,
         "and": 1,
         "like": 1,
@@ -58257,7 +58925,8 @@
         "!": 1,
         ",": 6,
         ".": 1,
-        "_appearances": 55,
+        ":": 3,
+        "_appearances": 58,
         "above": 1,
         "alone": 1,
         "and": 2,
@@ -58312,8 +58981,9 @@
         "!": 2,
         ",": 4,
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 30,
+        "_appearances": 31,
         "a": 1,
         "alas": 1,
         "and": 1,
@@ -58356,7 +59026,8 @@
     "stars": {
         ",": 1,
         ".": 1,
-        "_appearances": 14,
+        ":": 2,
+        "_appearances": 16,
         "and": 2,
         "did": 1,
         "for": 2,
@@ -58393,9 +59064,10 @@
     "state": {
         ",": 6,
         ".": 1,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 26,
+        "_appearances": 27,
         "am": 1,
         "and": 2,
         "ceaseth": 2,
@@ -58421,7 +59093,8 @@
     },
     "statue": {
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "but": 1,
         "crush": 1,
         "have": 1,
@@ -58430,7 +59103,8 @@
     },
     "statues": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "have": 1,
         "in": 1,
         "into": 1,
@@ -58551,7 +59225,8 @@
     "steps": {
         ",": 2,
         ".": 1,
-        "_appearances": 12,
+        ":": 2,
+        "_appearances": 14,
         "and": 2,
         "but": 1,
         "had": 1,
@@ -58632,8 +59307,9 @@
         "!": 2,
         ",": 11,
         ".": 5,
+        ":": 2,
         "?": 4,
-        "_appearances": 260,
+        "_appearances": 262,
         "a": 9,
         "ah": 1,
         "all": 2,
@@ -58810,7 +59486,8 @@
         "!": 2,
         ",": 2,
         ".": 1,
-        "_appearances": 19,
+        ":": 1,
+        "_appearances": 20,
         "amazedly": 1,
         "and": 1,
         "around": 4,
@@ -58903,9 +59580,10 @@
         "!": 1,
         ",": 2,
         ".": 1,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 17,
+        "_appearances": 18,
         "either": 1,
         "for": 2,
         "is": 2,
@@ -58928,8 +59606,9 @@
         "!": 1,
         ",": 6,
         ".": 1,
+        ":": 2,
         ";": 1,
-        "_appearances": 38,
+        "_appearances": 40,
         "ah": 1,
         "and": 2,
         "but": 2,
@@ -58963,7 +59642,8 @@
         "out": 1
     },
     "stoning": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "o": 1
     },
     "stony": {
@@ -59048,7 +59728,8 @@
         "which": 2
     },
     "stormeth": {
-        "_appearances": 3,
+        ":": 2,
+        "_appearances": 5,
         "all": 1,
         "many": 1,
         "our": 1
@@ -59059,8 +59740,9 @@
     },
     "storms": {
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "and": 2,
         "it": 1,
         "o": 1,
@@ -59117,7 +59799,8 @@
     "strange": {
         "!": 4,
         ",": 2,
-        "_appearances": 41,
+        ":": 1,
+        "_appearances": 42,
         "day": 1,
         "did": 1,
         "drunkenness": 1,
@@ -59153,7 +59836,8 @@
         "with": 1
     },
     "stranger": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "for": 1,
         "soundeth": 1,
         "to": 1
@@ -59238,7 +59922,8 @@
     "streams": {
         "!": 1,
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "down": 1,
         "for": 1,
         "the": 1
@@ -59309,7 +59994,8 @@
         "up": 1
     },
     "stricken": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "what": 1
     },
     "stride": {
@@ -59341,13 +60027,15 @@
     },
     "stripes": {
         "!": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "is": 1,
         "shall": 1,
         "with": 1
     },
     "strive": {
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "after": 3,
         "against": 2,
         "and": 1,
@@ -59449,7 +60137,8 @@
     },
     "struggle": {
         ",": 1,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "and": 2,
         "earthward": 1,
         "how": 1,
@@ -59931,8 +60620,9 @@
         "courage": 1
     },
     "sufficiently": {
+        ":": 2,
         ";": 1,
-        "_appearances": 10,
+        "_appearances": 12,
         "beautiful": 1,
         "flattered": 1,
         "for": 1,
@@ -60012,8 +60702,9 @@
     },
     "summer": {
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "better": 1,
         "burneth": 1,
         "fields": 1,
@@ -60057,8 +60748,9 @@
         "!": 2,
         ",": 11,
         ".": 7,
+        ":": 3,
         ";": 1,
-        "_appearances": 75,
+        "_appearances": 78,
         "and": 4,
         "arose": 1,
         "arrows": 1,
@@ -60137,7 +60829,8 @@
     },
     "suns": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "circle": 1,
         "of": 1,
         "pursue": 1,
@@ -60188,8 +60881,9 @@
     "superfluous": {
         "!": 2,
         ",": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 16,
+        "_appearances": 17,
         "do": 1,
         "marred": 1,
         "no": 1,
@@ -60206,9 +60900,10 @@
         "!": 5,
         ",": 7,
         ".": 10,
+        ":": 6,
         ";": 1,
         "?": 1,
-        "_appearances": 70,
+        "_appearances": 76,
         "a": 4,
         "and": 5,
         "as": 1,
@@ -60238,8 +60933,9 @@
         "would": 1
     },
     "supermen": {
+        ":": 1,
         "?": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "ah": 1,
         "are": 1
     },
@@ -60291,7 +60987,8 @@
         "for": 1
     },
     "supremacy": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "supreme": {
@@ -60311,7 +61008,8 @@
     },
     "sure": {
         ",": 16,
-        "_appearances": 40,
+        ":": 2,
+        "_appearances": 42,
         "a": 1,
         "but": 1,
         "enough": 3,
@@ -60407,8 +61105,9 @@
     "surpassed": {
         "!": 1,
         ".": 6,
+        ":": 2,
         "?": 1,
-        "_appearances": 19,
+        "_appearances": 21,
         "and": 1,
         "in": 1,
         "lxviii": 1,
@@ -60427,7 +61126,8 @@
     },
     "surpassing": {
         ".": 1,
-        "_appearances": 4,
+        ":": 2,
+        "_appearances": 6,
         "by": 1,
         "see": 1,
         "will": 1
@@ -60579,7 +61279,8 @@
     },
     "sweat": {
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "but": 1,
         "flowed": 1,
         "of": 1,
@@ -60624,7 +61325,8 @@
         "woman": 1
     },
     "sweetly": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "the": 1,
         "with": 1
@@ -60688,8 +61390,9 @@
     },
     "swine": {
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "all": 1,
         "and": 1,
         "nature": 1,
@@ -60784,7 +61487,8 @@
     },
     "sympathy": {
         ",": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "but": 1,
         "choked": 1,
         "for": 1,
@@ -60809,9 +61513,10 @@
     "table": {
         "!": 2,
         ",": 2,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 24,
+        "_appearances": 25,
         "a": 1,
         "and": 2,
         "at": 1,
@@ -60948,9 +61653,10 @@
     "talk": {
         ",": 2,
         ".": 2,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 35,
+        "_appearances": 36,
         "also": 1,
         "and": 4,
         "do": 1,
@@ -61010,7 +61716,8 @@
     },
     "tame": {
         ",": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "lame": 1,
         "therewith": 1
     },
@@ -61088,8 +61795,9 @@
         "!": 3,
         ",": 3,
         ".": 3,
+        ":": 2,
         ";": 2,
-        "_appearances": 37,
+        "_appearances": 39,
         "a": 1,
         "all": 1,
         "and": 2,
@@ -61140,7 +61848,8 @@
     },
     "taught": {
         ".": 1,
-        "_appearances": 27,
+        ":": 2,
+        "_appearances": 29,
         "all": 1,
         "also": 1,
         "for": 1,
@@ -61196,13 +61905,15 @@
         "voluptuousness": 1
     },
     "teachest": {
-        "_appearances": 4,
+        ":": 2,
+        "_appearances": 6,
         "all": 1,
         "and": 1,
         "that": 2
     },
     "teacheth": {
-        "_appearances": 11,
+        ":": 1,
+        "_appearances": 12,
         "him": 1,
         "it": 1,
         "men": 1,
@@ -61215,8 +61926,9 @@
     "teaching": {
         "!": 1,
         ",": 1,
+        ":": 2,
         "?": 2,
-        "_appearances": 18,
+        "_appearances": 20,
         "about": 1,
         "and": 1,
         "but": 1,
@@ -61262,7 +61974,8 @@
     },
     "tedium": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 1,
         "the": 1,
         "these": 1
@@ -61274,8 +61987,9 @@
     },
     "teeth": {
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 11,
+        "_appearances": 12,
         "and": 1,
         "chattering": 1,
         "gnashing": 3,
@@ -61441,7 +62155,8 @@
     "terrified": {
         ",": 1,
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "because": 1,
         "for": 1,
         "then": 1,
@@ -61928,7 +62643,7 @@
         "wind": 3
     },
     "the": {
-        "_appearances": 4465,
+        "_appearances": 4464,
         "abyss": 7,
         "abysses": 1,
         "academic": 2,
@@ -63312,7 +64027,6 @@
         "wells": 1,
         "weltering": 1,
         "wheel": 2,
-        "when": 1,
         "whispering": 1,
         "whistling": 1,
         "white": 1,
@@ -63370,9 +64084,10 @@
         "!": 29,
         ",": 90,
         ".": 25,
+        ":": 15,
         ";": 6,
         "?": 21,
-        "_appearances": 515,
+        "_appearances": 530,
         "a": 7,
         "about": 1,
         "again": 3,
@@ -63787,9 +64502,10 @@
         "!": 13,
         ",": 44,
         ".": 30,
+        ":": 20,
         ";": 4,
         "?": 3,
-        "_appearances": 377,
+        "_appearances": 397,
         "a": 4,
         "about": 1,
         "again": 1,
@@ -63933,8 +64649,9 @@
         "!": 4,
         ",": 15,
         ".": 9,
+        ":": 4,
         ";": 5,
-        "_appearances": 132,
+        "_appearances": 136,
         "a": 1,
         "again": 1,
         "all": 1,
@@ -63997,8 +64714,9 @@
     "then": {
         "!": 3,
         ",": 34,
+        ":": 2,
         ";": 1,
-        "_appearances": 379,
+        "_appearances": 381,
         "a": 3,
         "again": 1,
         "also": 1,
@@ -64157,8 +64875,9 @@
         "!": 4,
         ",": 21,
         ".": 2,
+        ":": 1,
         "?": 2,
-        "_appearances": 492,
+        "_appearances": 493,
         "a": 2,
         "above": 1,
         "again": 8,
@@ -64326,8 +65045,9 @@
         "!": 3,
         ",": 5,
         ".": 11,
+        ":": 3,
         "?": 1,
-        "_appearances": 71,
+        "_appearances": 74,
         "a": 1,
         "and": 2,
         "are": 1,
@@ -64445,8 +65165,9 @@
         "!": 2,
         ",": 1,
         ".": 3,
+        ":": 2,
         "?": 2,
-        "_appearances": 22,
+        "_appearances": 24,
         "and": 1,
         "but": 3,
         "could": 1,
@@ -64463,8 +65184,9 @@
         "!": 1,
         ",": 4,
         ".": 1,
+        ":": 1,
         ";": 1,
-        "_appearances": 17,
+        "_appearances": 18,
         "alas": 1,
         "and": 1,
         "can": 1,
@@ -64483,7 +65205,8 @@
     "thereto": {
         "!": 1,
         ",": 4,
-        "_appearances": 14,
+        ":": 2,
+        "_appearances": 16,
         "and": 1,
         "but": 4,
         "like": 1,
@@ -64587,7 +65310,8 @@
         "!": 1,
         ",": 10,
         ".": 2,
-        "_appearances": 613,
+        ":": 3,
+        "_appearances": 616,
         "about": 2,
         "accept": 1,
         "acquire": 1,
@@ -64907,7 +65631,8 @@
         "when": 1
     },
     "thickets": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "we": 1
     },
     "thief": {
@@ -64965,8 +65690,9 @@
         "!": 3,
         ",": 12,
         ".": 3,
+        ":": 6,
         ";": 1,
-        "_appearances": 102,
+        "_appearances": 108,
         "a": 2,
         "also": 1,
         "and": 3,
@@ -65015,9 +65741,10 @@
         "!": 5,
         ",": 25,
         ".": 14,
+        ":": 9,
         ";": 2,
         "?": 3,
-        "_appearances": 192,
+        "_appearances": 201,
         "a": 2,
         "after": 1,
         "again": 1,
@@ -65100,7 +65827,8 @@
     "think": {
         ",": 1,
         ".": 2,
-        "_appearances": 46,
+        ":": 1,
+        "_appearances": 47,
         "about": 1,
         "among": 1,
         "bad": 1,
@@ -65129,7 +65857,8 @@
     },
     "thinkable": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "but": 1,
         "for": 1
     },
@@ -65151,7 +65880,8 @@
     "thinketh": {
         ",": 1,
         ".": 1,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "already": 1,
         "every": 1,
         "himself": 1,
@@ -65231,7 +65961,8 @@
         "at": 2
     },
     "thirsty": {
-        "_appearances": 5,
+        ":": 2,
+        "_appearances": 7,
         "amongst": 1,
         "bethinkst": 1,
         "i": 1,
@@ -65246,9 +65977,10 @@
         "!": 2,
         ",": 24,
         ".": 3,
+        ":": 10,
         ";": 1,
         "?": 3,
-        "_appearances": 482,
+        "_appearances": 492,
         "absolute": 1,
         "academic": 1,
         "ah": 1,
@@ -65642,9 +66374,10 @@
         "!": 3,
         ",": 29,
         ".": 3,
+        ":": 2,
         ";": 2,
         "?": 7,
-        "_appearances": 914,
+        "_appearances": 916,
         "a": 6,
         "about": 1,
         "abysmal": 1,
@@ -66060,7 +66793,8 @@
         "!": 3,
         ",": 7,
         ".": 2,
-        "_appearances": 56,
+        ":": 3,
+        "_appearances": 59,
         "about": 1,
         "and": 1,
         "another": 1,
@@ -66115,7 +66849,8 @@
         "!": 1,
         ",": 9,
         ".": 7,
-        "_appearances": 54,
+        ":": 3,
+        "_appearances": 57,
         "above": 1,
         "and": 8,
         "but": 2,
@@ -66233,7 +66968,8 @@
         "did": 2
     },
     "thrill": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "thereby": 1,
         "with": 1
     },
@@ -66249,7 +66985,8 @@
     "throat": {
         ",": 1,
         ".": 2,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "all": 1,
         "and": 3,
         "that": 1,
@@ -66259,7 +66996,8 @@
         "throbbeth": 1
     },
     "throbbed": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "throbbeth": {
@@ -66396,8 +67134,9 @@
         "!": 1,
         ",": 7,
         ".": 1,
+        ":": 15,
         "?": 4,
-        "_appearances": 408,
+        "_appearances": 423,
         "a": 1,
         "ah": 1,
         "all": 1,
@@ -66745,9 +67484,10 @@
     "thyself": {
         "!": 7,
         ",": 22,
+        ":": 5,
         ";": 5,
         "?": 7,
-        "_appearances": 139,
+        "_appearances": 144,
         "a": 1,
         "about": 1,
         "advance": 1,
@@ -66881,9 +67621,10 @@
         "!": 11,
         ",": 19,
         ".": 11,
+        ":": 11,
         ";": 5,
         "?": 3,
-        "_appearances": 186,
+        "_appearances": 197,
         "a": 2,
         "and": 14,
         "as": 1,
@@ -67013,7 +67754,8 @@
         "of": 3
     },
     "tireth": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "how": 1
     },
     "tis": {
@@ -67509,9 +68251,10 @@
         "!": 3,
         ",": 4,
         ".": 4,
+        ":": 1,
         ";": 1,
         "?": 1,
-        "_appearances": 40,
+        "_appearances": 41,
         "a": 1,
         "again": 2,
         "and": 1,
@@ -67615,8 +68358,9 @@
     },
     "tongue": {
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 9,
+        "_appearances": 10,
         "demagogues": 1,
         "faltered": 1,
         "hangeth": 1,
@@ -67631,7 +68375,8 @@
     },
     "tongues": {
         ".": 1,
-        "_appearances": 5,
+        ":": 2,
+        "_appearances": 7,
         "and": 1,
         "herald": 1,
         "it": 1,
@@ -67787,8 +68532,9 @@
     },
     "torture": {
         ",": 3,
+        ":": 1,
         "?": 1,
-        "_appearances": 15,
+        "_appearances": 16,
         "ah": 1,
         "and": 1,
         "crosses": 1,
@@ -67942,7 +68688,8 @@
     },
     "traders": {
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 1,
         "gold": 2,
         "they": 1,
@@ -68074,7 +68821,8 @@
         "said": 1
     },
     "travellers": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thus": 1
     },
     "travelleth": {
@@ -68085,7 +68833,8 @@
     },
     "travelling": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "and": 2,
         "their": 1
     },
@@ -68100,7 +68849,8 @@
     "tread": {
         "!": 1,
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "a": 1,
         "all": 1,
         "and": 1,
@@ -68133,7 +68883,8 @@
     },
     "treasures": {
         "!": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "and": 1,
         "of": 1,
         "they": 2
@@ -68151,8 +68902,9 @@
         "!": 1,
         ",": 8,
         ".": 3,
+        ":": 1,
         ";": 1,
-        "_appearances": 46,
+        "_appearances": 47,
         "and": 3,
         "as": 2,
         "at": 2,
@@ -68182,7 +68934,8 @@
     "trees": {
         ",": 2,
         ".": 2,
-        "_appearances": 17,
+        ":": 2,
+        "_appearances": 19,
         "a": 1,
         "about": 1,
         "and": 1,
@@ -68234,7 +68987,8 @@
     },
     "tresses": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "round": 1,
         "then": 1,
         "thou": 1
@@ -68453,9 +69207,10 @@
         "!": 10,
         ",": 10,
         ".": 13,
+        ":": 4,
         ";": 2,
         "?": 2,
-        "_appearances": 113,
+        "_appearances": 117,
         "alas": 1,
         "all": 1,
         "and": 4,
@@ -68698,7 +69453,8 @@
     "two": {
         "!": 1,
         ",": 1,
-        "_appearances": 35,
+        ":": 2,
+        "_appearances": 37,
         "alone": 1,
         "animals": 1,
         "because": 1,
@@ -68729,8 +69485,9 @@
     "type": {
         ",": 7,
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 31,
+        "_appearances": 32,
         "a": 1,
         "always": 1,
         "among": 1,
@@ -68760,7 +69517,8 @@
     },
     "udder": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "ready": 1
     },
@@ -68782,7 +69540,8 @@
         "!": 2,
         ",": 1,
         ".": 1,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "great": 1,
         "his": 1,
         "they": 1,
@@ -68866,7 +69625,8 @@
     "unbelief": {
         "!": 1,
         ",": 1,
-        "_appearances": 5,
+        ":": 1,
+        "_appearances": 6,
         "because": 1,
         "some": 1,
         "such": 1
@@ -68936,7 +69696,8 @@
         "silence": 1
     },
     "uncloudedly": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "to": 1,
         "uncloudedly": 1
     },
@@ -68999,7 +69760,8 @@
     },
     "understand": {
         ".": 1,
-        "_appearances": 23,
+        ":": 1,
+        "_appearances": 24,
         "children": 1,
         "everything": 2,
         "him": 2,
@@ -69231,7 +69993,8 @@
     },
     "unlearn": {
         ",": 3,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "an": 1,
         "best": 1,
         "i": 2,
@@ -69296,7 +70059,8 @@
         "doth": 1
     },
     "unpleasantly": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "the": 1
     },
     "unplumed": {
@@ -69719,8 +70483,9 @@
     "upwards": {
         ",": 3,
         ".": 2,
+        ":": 2,
         "?": 1,
-        "_appearances": 17,
+        "_appearances": 19,
         "although": 1,
         "and": 1,
         "in": 1,
@@ -69737,9 +70502,10 @@
         "!": 5,
         ",": 15,
         ".": 11,
+        ":": 3,
         ";": 3,
         "?": 5,
-        "_appearances": 152,
+        "_appearances": 155,
         "a": 1,
         "again": 1,
         "all": 2,
@@ -69843,7 +70609,8 @@
         "the": 1
     },
     "useless": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "or": 1,
         "searching": 1
     },
@@ -69861,7 +70628,8 @@
         "them": 1
     },
     "utterance": {
-        "_appearances": 5,
+        ":": 2,
+        "_appearances": 7,
         "came": 1,
         "have": 1,
         "it": 1,
@@ -69924,7 +70692,8 @@
     },
     "valley": {
         ".": 2,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "and": 2,
         "serpent": 1,
         "that": 1,
@@ -69933,8 +70702,9 @@
     },
     "valleys": {
         ".": 2,
+        ":": 1,
         "?": 1,
-        "_appearances": 10,
+        "_appearances": 11,
         "and": 2,
         "fearest": 1,
         "hearken": 1,
@@ -69993,7 +70763,8 @@
     "values": {
         ",": 5,
         ".": 1,
-        "_appearances": 31,
+        ":": 1,
+        "_appearances": 32,
         "and": 4,
         "did": 1,
         "do": 1,
@@ -70034,8 +70805,9 @@
     },
     "vanity": {
         "!": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "for": 1,
         "is": 1,
         "spectators": 1,
@@ -70135,7 +70907,8 @@
     },
     "veins": {
         ",": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "at": 1,
         "of": 1,
         "spit": 1,
@@ -70296,12 +71069,14 @@
         "ye": 8
     },
     "vermin": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "all": 1,
         "of": 1
     },
     "verse": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "that": 1
     },
     "versed": {
@@ -70439,7 +71214,8 @@
     "victory": {
         "!": 6,
         ".": 3,
-        "_appearances": 24,
+        ":": 1,
+        "_appearances": 25,
         "ah": 2,
         "and": 2,
         "he": 1,
@@ -70565,8 +71341,9 @@
         "!": 14,
         ",": 11,
         ".": 27,
+        ":": 9,
         ";": 5,
-        "_appearances": 184,
+        "_appearances": 193,
         "a": 1,
         "and": 21,
         "as": 2,
@@ -70632,8 +71409,9 @@
         "!": 1,
         ",": 10,
         ".": 10,
+        ":": 3,
         "?": 1,
-        "_appearances": 63,
+        "_appearances": 66,
         "alas": 1,
         "and": 4,
         "are": 2,
@@ -70712,13 +71490,15 @@
         "came": 1
     },
     "vocal": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "for": 1
     },
     "voice": {
         ",": 11,
         ".": 2,
-        "_appearances": 68,
+        ":": 12,
+        "_appearances": 80,
         "also": 1,
         "and": 5,
         "crieth": 1,
@@ -70751,7 +71531,8 @@
         "who": 1
     },
     "voices": {
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "although": 1,
         "came": 1,
         "grate": 1,
@@ -70782,7 +71563,8 @@
         "!": 1,
         ",": 2,
         ".": 1,
-        "_appearances": 17,
+        ":": 6,
+        "_appearances": 23,
         "and": 1,
         "but": 1,
         "in": 1,
@@ -70871,9 +71653,10 @@
         "!": 1,
         ",": 7,
         ".": 2,
+        ":": 1,
         ";": 1,
         "?": 2,
-        "_appearances": 40,
+        "_appearances": 41,
         "a": 1,
         "and": 3,
         "crafty": 1,
@@ -70905,7 +71688,8 @@
     },
     "waiteth": {
         ",": 2,
-        "_appearances": 12,
+        ":": 1,
+        "_appearances": 13,
         "and": 1,
         "for": 3,
         "in": 1,
@@ -70932,7 +71716,8 @@
     },
     "wakeful": {
         ".": 1,
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "on": 1,
         "those": 1
     },
@@ -70988,7 +71773,8 @@
     "wall": {
         ",": 1,
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "among": 1,
         "brightly": 1,
         "it": 1,
@@ -71024,7 +71810,8 @@
     "wanderer": {
         "!": 1,
         ".": 2,
-        "_appearances": 18,
+        ":": 1,
+        "_appearances": 19,
         "am": 1,
         "and": 6,
         "many": 1,
@@ -71040,7 +71827,8 @@
     },
     "wandering": {
         "!": 1,
-        "_appearances": 9,
+        ":": 1,
+        "_appearances": 10,
         "and": 1,
         "he": 1,
         "jew": 1,
@@ -71133,7 +71921,8 @@
     },
     "wanton": {
         ".": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "avidity": 1,
         "there": 1,
         "ye": 1
@@ -71275,7 +72064,8 @@
     },
     "warrior": {
         ".": 1,
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "all": 1,
         "food": 1,
         "liketh": 1,
@@ -71300,7 +72090,8 @@
     "was": {
         ",": 2,
         ".": 1,
-        "_appearances": 271,
+        ":": 1,
+        "_appearances": 272,
         "a": 20,
         "about": 5,
         "afraid": 1,
@@ -71468,7 +72259,8 @@
         "for": 1
     },
     "watcheth": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "thus": 1
     },
     "watchman": {
@@ -71481,7 +72273,8 @@
     },
     "watchmen": {
         ".": 1,
-        "_appearances": 6,
+        ":": 1,
+        "_appearances": 7,
         "and": 2,
         "for": 1,
         "they": 1,
@@ -71491,9 +72284,10 @@
         "!": 1,
         ",": 2,
         ".": 2,
+        ":": 2,
         ";": 1,
         "?": 1,
-        "_appearances": 31,
+        "_appearances": 33,
         "and": 1,
         "did": 1,
         "doth": 1,
@@ -71522,7 +72316,8 @@
     "waters": {
         ",": 1,
         ".": 2,
-        "_appearances": 8,
+        ":": 1,
+        "_appearances": 9,
         "a": 1,
         "none": 1,
         "therefore": 1,
@@ -71566,9 +72361,10 @@
         "!": 4,
         ",": 15,
         ".": 8,
+        ":": 3,
         ";": 2,
         "?": 3,
-        "_appearances": 125,
+        "_appearances": 128,
         "a": 1,
         "all": 1,
         "alone": 1,
@@ -71624,8 +72420,9 @@
         "!": 1,
         ",": 1,
         ".": 2,
+        ":": 1,
         ";": 1,
-        "_appearances": 18,
+        "_appearances": 19,
         "and": 4,
         "at": 1,
         "doth": 1,
@@ -71834,7 +72631,8 @@
         "!": 1,
         ",": 7,
         ".": 1,
-        "_appearances": 26,
+        ":": 2,
+        "_appearances": 28,
         "and": 2,
         "arise": 1,
         "even": 1,
@@ -71856,9 +72654,10 @@
     },
     "weary": {
         ",": 11,
+        ":": 1,
         ";": 2,
         "?": 2,
-        "_appearances": 70,
+        "_appearances": 71,
         "and": 8,
         "cowards": 1,
         "fatally": 1,
@@ -71898,19 +72697,22 @@
     },
     "web": {
         ",": 1,
-        "_appearances": 4,
+        ":": 1,
+        "_appearances": 5,
         "of": 1,
         "that": 1,
         "touch": 1
     },
     "weeds": {
-        "_appearances": 2,
+        ":": 1,
+        "_appearances": 3,
         "have": 1,
         "praised": 1
     },
     "weep": {
         ",": 1,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "and": 2,
         "but": 1,
         "forth": 1,
@@ -71997,9 +72799,10 @@
         "!": 41,
         ",": 18,
         ".": 6,
+        ":": 7,
         ";": 2,
         "?": 2,
-        "_appearances": 230,
+        "_appearances": 237,
         "about": 1,
         "after": 1,
         "also": 4,
@@ -72872,8 +73675,9 @@
     },
     "whispering": {
         ",": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 8,
+        "_appearances": 9,
         "and": 1,
         "had": 1,
         "it": 2,
@@ -73331,7 +74135,8 @@
         "!": 2,
         ",": 3,
         ".": 4,
-        "_appearances": 28,
+        ":": 2,
+        "_appearances": 30,
         "a": 1,
         "and": 1,
         "at": 1,
@@ -73433,9 +74238,10 @@
         "!": 7,
         ",": 21,
         ".": 19,
+        ":": 8,
         ";": 8,
         "?": 2,
-        "_appearances": 434,
+        "_appearances": 442,
         "a": 4,
         "again": 1,
         "ah": 1,
@@ -73621,7 +74427,8 @@
         "to": 5
     },
     "willingly": {
-        "_appearances": 7,
+        ":": 1,
+        "_appearances": 8,
         "breaketh": 1,
         "do": 1,
         "lavish": 1,
@@ -73657,8 +74464,9 @@
         "!": 2,
         ",": 6,
         ".": 1,
+        ":": 1,
         "?": 2,
-        "_appearances": 46,
+        "_appearances": 47,
         "a": 2,
         "ah": 1,
         "am": 1,
@@ -73711,7 +74519,8 @@
     "winds": {
         ",": 4,
         ".": 2,
-        "_appearances": 19,
+        ":": 1,
+        "_appearances": 20,
         "and": 2,
         "blow": 1,
         "come": 1,
@@ -73829,9 +74638,10 @@
         "!": 9,
         ",": 10,
         ".": 11,
+        ":": 9,
         ";": 1,
         "?": 3,
-        "_appearances": 115,
+        "_appearances": 124,
         "a": 2,
         "ah": 2,
         "and": 7,
@@ -73889,8 +74699,9 @@
         "!": 1,
         ",": 6,
         ".": 3,
+        ":": 2,
         "?": 1,
-        "_appearances": 56,
+        "_appearances": 58,
         "and": 2,
         "but": 1,
         "concerning": 1,
@@ -73924,7 +74735,8 @@
         "whose": 1
     },
     "wisely": {
-        "_appearances": 1,
+        ":": 1,
+        "_appearances": 2,
         "well": 1
     },
     "wiser": {
@@ -74417,7 +75229,8 @@
         "!": 1,
         ",": 5,
         ".": 3,
-        "_appearances": 42,
+        ":": 1,
+        "_appearances": 43,
         "all": 1,
         "and": 1,
         "be": 1,
@@ -74470,9 +75283,10 @@
         "!": 1,
         ",": 12,
         ".": 10,
+        ":": 4,
         ";": 2,
         "?": 1,
-        "_appearances": 97,
+        "_appearances": 101,
         "a": 1,
         "and": 12,
         "as": 1,
@@ -74516,8 +75330,9 @@
         "!": 2,
         ",": 5,
         ".": 3,
+        ":": 1,
         "?": 1,
-        "_appearances": 30,
+        "_appearances": 31,
         "amongst": 1,
         "and": 5,
         "are": 2,
@@ -74607,9 +75422,10 @@
         "!": 1,
         ",": 4,
         ".": 4,
+        ":": 5,
         ";": 1,
         "?": 4,
-        "_appearances": 60,
+        "_appearances": 65,
         "all": 1,
         "also": 1,
         "and": 3,
@@ -74651,7 +75467,8 @@
         "!": 3,
         ",": 14,
         ".": 5,
-        "_appearances": 89,
+        ":": 13,
+        "_appearances": 102,
         "about": 1,
         "and": 9,
         "applied": 1,
@@ -74744,9 +75561,10 @@
         "!": 7,
         ",": 18,
         ".": 14,
+        ":": 2,
         ";": 6,
         "?": 4,
-        "_appearances": 183,
+        "_appearances": 185,
         "alas": 1,
         "among": 1,
         "and": 7,
@@ -74943,7 +75761,8 @@
         "without": 1
     },
     "worths": {
-        "_appearances": 3,
+        ":": 1,
+        "_appearances": 4,
         "and": 1,
         "good": 1,
         "loadeth": 1
@@ -75181,7 +76000,8 @@
     "written": {
         ",": 2,
         ".": 1,
-        "_appearances": 10,
+        ":": 1,
+        "_appearances": 11,
         "all": 1,
         "behold": 1,
         "i": 1,
@@ -75193,8 +76013,9 @@
     "wrong": {
         ",": 1,
         ".": 1,
+        ":": 1,
         "?": 1,
-        "_appearances": 13,
+        "_appearances": 14,
         "he": 1,
         "or": 1,
         "so": 1,
@@ -75444,8 +76265,9 @@
     },
     "ye": {
         ",": 8,
+        ":": 2,
         "?": 5,
-        "_appearances": 662,
+        "_appearances": 664,
         "a": 13,
         "act": 1,
         "advocates": 1,
@@ -75710,8 +76532,9 @@
         "!": 5,
         ",": 36,
         ".": 1,
+        ":": 2,
         "?": 1,
-        "_appearances": 104,
+        "_appearances": 106,
         "a": 2,
         "also": 1,
         "an": 1,
@@ -75933,8 +76756,9 @@
         "he": 1
     },
     "yielding": {
+        ":": 1,
         "?": 1,
-        "_appearances": 3,
+        "_appearances": 4,
         "so": 1,
         "why": 1
     },
@@ -75957,9 +76781,10 @@
         "!": 17,
         ",": 83,
         ".": 22,
+        ":": 23,
         ";": 2,
         "?": 5,
-        "_appearances": 421,
+        "_appearances": 444,
         "a": 2,
         "about": 1,
         "across": 1,
@@ -76079,7 +76904,8 @@
     "young": {
         ",": 3,
         ".": 3,
-        "_appearances": 24,
+        ":": 2,
+        "_appearances": 26,
         "and": 2,
         "but": 1,
         "child": 1,
@@ -76310,8 +77136,9 @@
         "!": 3,
         ",": 9,
         ".": 6,
+        ":": 4,
         ";": 2,
-        "_appearances": 79,
+        "_appearances": 83,
         "against": 1,
         "alas": 1,
         "and": 10,
@@ -76353,8 +77180,9 @@
         "!": 3,
         ",": 4,
         ".": 3,
+        ":": 1,
         ";": 1,
-        "_appearances": 35,
+        "_appearances": 36,
         "and": 5,
         "arose": 1,
         "avoided": 1,
@@ -76390,9 +77218,10 @@
         "!": 29,
         ",": 153,
         ".": 97,
+        ":": 10,
         ";": 11,
         "?": 15,
-        "_appearances": 897,
+        "_appearances": 907,
         "a": 3,
         "after": 2,
         "again": 4,

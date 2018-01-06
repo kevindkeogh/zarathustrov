@@ -8,6 +8,7 @@ import (
 	"os"
 	"strings"
 	"time"
+	"unicode"
 
 	"github.com/ChimeraCoder/anaconda"
 )
@@ -24,6 +25,7 @@ var endings = map[rune]bool{
 var seperators = map[rune]bool{
 	',': true,
 	';': true,
+	':': true,
 }
 
 // randInt returns a random integer between a max and a min
@@ -147,8 +149,9 @@ func parseCorpus(corpus *os.File, start int, end int) *Tree {
 
 	tree := newTree()
 
-	word := []rune("the") // TODO: Get real first word
-	nextWord := []rune("")
+	var setWord bool
+	var word []rune
+	var nextWord []rune
 
 	for _, letter := range content {
 		// check if it's really a letter or something else
@@ -157,13 +160,17 @@ func parseCorpus(corpus *os.File, start int, end int) *Tree {
 			(letter >= rune('A') && letter <= rune('Z')) {
 			nextWord = append(nextWord, letter)
 		} else {
-			key := strings.ToLower(string(word))
-			value := strings.ToLower(string(nextWord))
-
-			// check if one of the words is blank. If so, skip
-			if len(key) == 0 || len(value) == 0 {
+			if len(word) == 0 || len(nextWord) == 0 {
+				if unicode.IsSpace(letter) && !setWord {
+					setWord = true
+					word = nextWord
+					nextWord = make([]rune, 0)
+				}
 				continue
 			}
+
+			key := strings.ToLower(string(word))
+			value := strings.ToLower(string(nextWord))
 
 			// Update the tree
 			tree.update(key, value)
@@ -194,7 +201,6 @@ func parseCorpus(corpus *os.File, start int, end int) *Tree {
 // returns a single string less than 280 characters (for Twitter).
 func (tree *Tree) generateRandomString() string {
 	var position int
-	// var quoteOpen bool TODO: Fix so that all quotes are closed
 
 	key := tree.getRandomKey()
 	randomString := strings.Title(key)
