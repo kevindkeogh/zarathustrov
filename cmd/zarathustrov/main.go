@@ -29,6 +29,30 @@ func randInt(min int, max int) int {
 	return min + rand.Intn(max-min)
 }
 
+func newTree() *map[string]map[string]int {
+	tree := make(map[string]map[string]int)
+	tree["_appearances"] = make(map[string]int)
+	return &tree
+}
+
+func updateTree(tree *map[string]map[string]int, key string, value string) {
+	// Update overall count
+	count := (*tree)["_appearances"]["total"]
+	(*tree)["_appearances"]["total"] = count + 1
+
+	// check if the key is in the tree and add to the appearances
+	if _, ok := (*tree)[key]; ok {
+		count := (*tree)[key]["_appearances"]
+		(*tree)[key]["_appearances"] = count + 1
+	} else {
+		(*tree)[key] = make(map[string]int)
+		(*tree)[key]["_appearances"] = 1
+	}
+
+	count = (*tree)[key][value]
+	(*tree)[key][value] = count + 1
+}
+
 // parseCorpus takes a File of text, and creates the Markov Tree. It builds the
 // tree by parsing each rune, determining if it is an English letter, and
 // assigning it to a nested map. It also tracks the frequency of appearances
@@ -50,11 +74,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 	}
 	content := string(text[start:end])
 
-	tree := make(map[string]map[string]int)
-
-	// Track the total number of words
-	tree["_appearances"] = make(map[string]int)
-	tree["_appearances"]["total"] = 0
+	tree := newTree()
 
 	word := []rune("the") // TODO: Get real first word
 	nextWord := []rune("")
@@ -68,49 +88,25 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 		} else {
 			key := strings.ToLower(string(word))
 			value := strings.ToLower(string(nextWord))
+
 			// check if one of the words is blank. If so, skip
 			if len(key) == 0 || len(value) == 0 {
 				continue
 			}
 
+			// Update the tree
+			updateTree(tree, key, value)
+			if endings[letter] || seperators[letter] {
+				updateTree(tree, value, string(letter))
+			}
+
 			// Reset the words
 			word = nextWord
 			nextWord = make([]rune, 0)
-
-			// Track the total words
-			count := tree["_appearances"]["total"]
-			tree["_appearances"]["total"] = count + 1
-
-			if _, ok := tree[key]; !ok {
-				tree[key] = make(map[string]int)
-				// Keep track of the overall count per entry,
-				// to make it easy to probabilities
-				tree[key][value] = 1
-				tree[key]["_appearances"] = 1
-			} else {
-				count = tree[key][value]
-				tree[key][value] = count + 1
-				count = tree[key]["_appearances"]
-				tree[key]["_appearances"] = count + 1
-			}
-
-			if endings[letter] || seperators[letter] {
-				punctuation := string(letter)
-				if _, ok := tree[value]; !ok {
-					tree[value] = make(map[string]int)
-					tree[value][punctuation] = 1
-					tree[value]["_appearances"] = 1
-				} else {
-					count = tree[value][punctuation]
-					tree[value][punctuation] = count + 1
-					count = tree[value]["_appearances"]
-					tree[value]["_appearances"] = count + 1
-				}
-			}
 		}
 	}
 
-	jsonString, err := json.Marshal(tree)
+	jsonString, err := json.MarshalIndent(tree, "", "    ")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -120,7 +116,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 		log.Fatal(err)
 	}
 
-	return &tree
+	return tree
 }
 
 // getRandomTreeKey takes a tree and returns a random key from all the keys.
@@ -149,13 +145,30 @@ func getRandomTreeKey(tree *map[string]map[string]int) string {
 // getRandomNodeKey takes a node and returns a random key from all the keys.
 // Note that the keys are weighted by the total number of words appearing after
 // that Node-key in the corpus
-func getRandomNodeKey(node map[string]int) string {
+// if omitPunct is true, the function will not return an ending or a seperator
+// and will adjust the weighting to ignore punctuation
+func getRandomNodeKey(node map[string]int, omitPunct bool) string {
 	var key string
-	nth := randInt(0, node["_appearances"])
+	var letter rune
+
+	max := node["_appearances"]
+	if omitPunct {
+		for k := range endings {
+			max = max - node[string(k)]
+		}
+		for k := range seperators {
+			max = max - node[string(k)]
+		}
+	}
+
+	nth := randInt(0, max)
 	for key = range node {
-		if key == "_appearances" {
+		letter = []rune(key)[0]
+		if key == "_appearances" ||
+			(omitPunct && (endings[letter] || seperators[letter])) {
 			continue
 		}
+
 		nth = nth - node[key]
 		if nth <= 0 {
 			break
@@ -173,16 +186,17 @@ func generateRandomString(tree *map[string]map[string]int) string {
 	key := getRandomTreeKey(tree)
 	randomString := strings.Title(key)
 	for len(randomString) < 280 {
-		word := getRandomNodeKey((*tree)[key])
-		switch word {
-		case ".", "!", "?":
+		word := getRandomNodeKey((*tree)[key], false)
+		letter := []rune(word)[0]
+		switch {
+		case endings[letter]:
 			position = len(randomString) + 1
 			key = getRandomTreeKey(tree)
 			randomString = randomString + word + " " + strings.Title(key)
-		case ",", ";":
-			key = getRandomTreeKey(tree)
+		case seperators[letter]:
+			key = getRandomNodeKey((*tree)[key], true)
 			randomString = randomString + word + " " + key
-		case "i", "zarathustra":
+		case word == "i" || word == "zarathustra":
 			randomString = randomString + " " + strings.Title(word)
 			key = word
 		default:
@@ -190,7 +204,6 @@ func generateRandomString(tree *map[string]map[string]int) string {
 			key = word
 		}
 	}
-
 	return randomString[:position]
 }
 
@@ -210,7 +223,11 @@ func makePost(tree *map[string]map[string]int) {
 	for text == "" {
 		text = generateRandomString(tree)
 	}
-	twitterClient.PostTweet(text, nil)
+
+	_, err := twitterClient.PostTweet(text, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
 }
 
 // main runs the program forever, calling makePost every 15 minutes
