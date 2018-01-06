@@ -205,7 +205,7 @@ func (tree *Tree) generateRandomString() string {
 	key := tree.getRandomKey()
 	randomString := strings.Title(key)
 	for len(randomString) < 280 {
-		word := (*(*tree)[key]).getRandomKey(false)
+		word := (*tree)[key].getRandomKey(false)
 		letter := []rune(word)[0]
 		switch {
 		case endings[letter]:
