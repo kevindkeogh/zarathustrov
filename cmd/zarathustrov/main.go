@@ -13,8 +13,7 @@ import (
 	"github.com/ChimeraCoder/anaconda"
 )
 
-type Node map[string]int
-type Tree map[string]*Node
+type Node map[string]interface{}
 
 var endings = map[rune]bool{
 	'.': true,
@@ -35,9 +34,10 @@ func randInt(min int, max int) int {
 }
 
 // newTree returns a new Tree struct
-func newTree() *Tree {
-	tree := make(Tree)
+func newTree() *Node {
+	tree := make(Node)
 	tree["_appearances"] = newNode()
+	// (*tree["_appearances"])["total"] = 0
 	return &tree
 }
 
@@ -50,22 +50,26 @@ func newNode() *Node {
 // update method for Tree increments the total number of words for the tree,
 // then increments the key-value pair supplied. The key and value are added
 // to the Tree and Node, respectively, if they are new to the Tree.
-func (tree *Tree) update(key string, value string) {
+func (tree *Node) update(key string, value string) {
 	// Update overall count
-	count := (*(*tree)["_appearances"])["total"]
-	(*(*tree)["_appearances"])["total"] = count + 1
+	count := (*tree)["_appearances"].(Node)["total"].(int)
+	(*tree)["_appearances"].(Node)["total"] = count + 1
 
 	// check if the key is in the tree and add to the appearances
 	if _, ok := (*tree)[key]; ok {
-		count := (*(*tree)[key])["_appearances"]
-		(*(*tree)[key])["_appearances"] = count + 1
+		count := (*tree)[key].(Node)["_appearances"].(int)
+		(*tree)[key].(Node)["_appearances"] = count + 1
+		if (*tree)[key].(Node)[value] == nil {
+			(*tree)[key].(Node)[value] = 0
+		}
 	} else {
 		(*tree)[key] = newNode()
-		(*(*tree)[key])["_appearances"] = 1
+		(*tree)[key].(Node)["_appearances"] = 1
+		(*tree)[key].(Node)[value] = 0
 	}
 
-	count = (*(*tree)[key])[value]
-	(*(*tree)[key])[value] = count + 1
+	count = (*tree)[key].(Node)[value].(int)
+	(*tree)[key].(Node)[value] = count + 1
 }
 
 // getRandomKey method for a tree returns a random key from the tree.
@@ -78,12 +82,12 @@ func (tree *Tree) update(key string, value string) {
 // number of possible second words, and each is weighted by its count.
 func (tree *Tree) getRandomKey() string {
 	var key string
-	nth := randInt(0, (*(*tree)["_appearances"])["total"])
+	nth := randInt(0, (*(*tree)["_appearances"])["total"].(int))
 	for key = range *tree {
 		if key == "_appearances" {
 			continue
 		}
-		nth = nth - (*(*tree)[key])["_appearances"]
+		nth = nth - (*(*tree)[key])["_appearances"].(int)
 		if nth <= 0 {
 			break
 		}
@@ -100,13 +104,19 @@ func (node *Node) getRandomKey(omitPunct bool) string {
 	var key string
 	var letter rune
 
-	max := (*node)["_appearances"]
+	max := (*node)["_appearances"].(int)
 	if omitPunct {
 		for k := range endings {
-			max = max - (*node)[string(k)]
+			if (*node)[string(k)] == nil {
+				continue
+			}
+			max = max - (*node)[string(k)].(int)
 		}
 		for k := range seperators {
-			max = max - (*node)[string(k)]
+			if (*node)[string(k)] == nil {
+				continue
+			}
+			max = max - (*node)[string(k)].(int)
 		}
 	}
 
@@ -118,7 +128,7 @@ func (node *Node) getRandomKey(omitPunct bool) string {
 			continue
 		}
 
-		nth = nth - (*node)[key]
+		nth = nth - (*node)[key].(int)
 		if nth <= 0 {
 			break
 		}
@@ -135,7 +145,7 @@ func (node *Node) getRandomKey(omitPunct bool) string {
 // to be read. If '-1' is supplied to the last character, all characters are
 // read.
 // Note that the tree in JSON form as tree.json in the working directory.
-func parseCorpus(corpus *os.File, start int, end int) *Tree {
+func parseCorpus(corpus *os.File, start int, end int) *Node {
 	// read the entire text file as an array.
 	// TODO: chunk it, use multiple gothreads?
 	text, err := ioutil.ReadAll(corpus)
@@ -199,7 +209,7 @@ func parseCorpus(corpus *os.File, start int, end int) *Tree {
 
 // generateRandomString takes a Markov tree map of string[int] maps, and
 // returns a single string less than 280 characters (for Twitter).
-func (tree *Tree) generateRandomString() string {
+func (tree *Node) generateRandomString() string {
 	var position int
 
 	key := tree.getRandomKey()
@@ -236,7 +246,7 @@ func twitterLogin() *anaconda.TwitterApi {
 
 // makePost takes a Markov tree, then gets a Twitter API Client and a new
 // random string and posts it
-func makePost(tree *Tree) {
+func makePost(tree *Node) {
 	var text string
 	twitterClient := twitterLogin()
 	for text == "" {
