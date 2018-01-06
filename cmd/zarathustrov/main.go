@@ -12,6 +12,9 @@ import (
 	"github.com/ChimeraCoder/anaconda"
 )
 
+type Node map[string]int
+type Tree map[string]Node
+
 var endings = map[rune]bool{
 	'.': true,
 	'!': true,
@@ -29,13 +32,13 @@ func randInt(min int, max int) int {
 	return min + rand.Intn(max-min)
 }
 
-func newTree() *map[string]map[string]int {
-	tree := make(map[string]map[string]int)
-	tree["_appearances"] = make(map[string]int)
+func newTree() *Tree {
+	tree := make(Tree)
+	tree["_appearances"] = make(Node)
 	return &tree
 }
 
-func updateTree(tree *map[string]map[string]int, key string, value string) {
+func updateTree(tree *Tree, key string, value string) {
 	// Update overall count
 	count := (*tree)["_appearances"]["total"]
 	(*tree)["_appearances"]["total"] = count + 1
@@ -45,7 +48,7 @@ func updateTree(tree *map[string]map[string]int, key string, value string) {
 		count := (*tree)[key]["_appearances"]
 		(*tree)[key]["_appearances"] = count + 1
 	} else {
-		(*tree)[key] = make(map[string]int)
+		(*tree)[key] = make(Node)
 		(*tree)[key]["_appearances"] = 1
 	}
 
@@ -62,7 +65,7 @@ func updateTree(tree *map[string]map[string]int, key string, value string) {
 // to be read. If '-1' is supplied to the last character, all characters are
 // read.
 // Note that the tree in JSON form as tree.json in the working directory.
-func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int {
+func parseCorpus(corpus *os.File, start int, end int) *Tree {
 	// read the entire text file as an array.
 	// TODO: chunk it, use multiple gothreads?
 	text, err := ioutil.ReadAll(corpus)
@@ -127,7 +130,7 @@ func parseCorpus(corpus *os.File, start int, end int) *map[string]map[string]int
 // draws a random word, and whose count is then subtracted from nth. This
 // preserves the probability, since nth is a random number from 0 to the total
 // number of possible second words, and each is weighted by its count.
-func getRandomTreeKey(tree *map[string]map[string]int) string {
+func getRandomTreeKey(tree *Tree) string {
 	var key string
 	nth := randInt(0, (*tree)["_appearances"]["total"])
 	for key = range *tree {
@@ -147,7 +150,7 @@ func getRandomTreeKey(tree *map[string]map[string]int) string {
 // that Node-key in the corpus
 // if omitPunct is true, the function will not return an ending or a seperator
 // and will adjust the weighting to ignore punctuation
-func getRandomNodeKey(node map[string]int, omitPunct bool) string {
+func getRandomNodeKey(node Node, omitPunct bool) string {
 	var key string
 	var letter rune
 
@@ -179,7 +182,7 @@ func getRandomNodeKey(node map[string]int, omitPunct bool) string {
 
 // generateRandomString takes a Markov tree map of string[int] maps, and
 // returns a single string less than 280 characters (for Twitter).
-func generateRandomString(tree *map[string]map[string]int) string {
+func generateRandomString(tree *Tree) string {
 	var position int
 	// var quoteOpen bool TODO: Fix so that all quotes are closed
 
@@ -217,7 +220,7 @@ func twitterLogin() *anaconda.TwitterApi {
 
 // makePost takes a Markov tree, then gets a Twitter API Client and a new
 // random string and posts it
-func makePost(tree *map[string]map[string]int) {
+func makePost(tree *Tree) {
 	var text string
 	twitterClient := twitterLogin()
 	for text == "" {
