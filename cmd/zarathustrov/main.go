@@ -263,6 +263,6 @@ func main() {
 
 	for {
 		makePost(tree)
-		time.Sleep(15 * time.Minute)
+		time.Sleep(60 * time.Minute)
 	}
 }
