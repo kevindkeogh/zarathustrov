@@ -2,27 +2,18 @@
 PKGS := $(shell ls ./cmd)
 
 .PHONY: build fmt clean install
-build: fmt dep
-	@mkdir -p bin
-	@for package in $(PKGS) ; \
-	do \
-		go build -x -v -o ./bin/$$package ./cmd/$$package/*.go ; \
-	done
+build: fmt
+	mkdir -p bin
+	go build -x -v -o ./bin/zarathustrov
 
 install:
-	@for package in $(PKGS) ; \
-	do \
-		go install ./cmd/$$package ; \
-	done
+	go install
 
 fmt:
 	@for package in $(PKGS) ; \
 	do \
-		go fmt ./cmd/$$package/*.go ; \
+		go fmt ./cmd/$$package ; \
 	done
-
-dep:
-	@dep ensure
 
 clean:
 	@rm -rf ./bin
